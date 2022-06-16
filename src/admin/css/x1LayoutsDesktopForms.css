@@ -1,0 +1,867 @@
+
+
+      html {
+        height: 100%;
+        width: 100%;
+      }
+
+      body {
+        font-family: 'Open Sans', serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+      }
+
+      
+
+      .x1LayoutsDesktopForms {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: rgba(255, 255, 255, 1);
+      width: 1920.00px;
+    height: 1080.00px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.x1LayoutsDesktopForms .group90 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 556.00px;
+    height: 618.00px;
+    left: 682.00px;
+    top: 231.00px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .logInce396e68 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 64.00px;
+      letter-spacing: 0.00px;
+      color: rgba(45, 50, 75, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 46.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 330.00px;
+    height: 131.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .datePickerb9c0b14a {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 556.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 157.00px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .datePickerb9c0b14a .base6068661d {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(201, 212, 229, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(201, 212, 229, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(201, 212, 229, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(201, 212, 229, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 6.00px;
+      border-top-right-radius: 6.00px;
+      border-bottom-left-radius: 6.00px;
+      border-bottom-right-radius: 6.00px;
+      box-shadow: none;
+      width: 556.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .datePickerb9c0b14a .text97e3ca21 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(201, 212, 229, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 493.19px;
+    height: 32.00px;
+    left: 24.00px;
+    top: 16.50px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .datePicker {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 556.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 414.00px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .datePicker .base {
+    position: absolute;
+      box-sizing: border-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(201, 212, 229, 1);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(201, 212, 229, 1);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(201, 212, 229, 1);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(201, 212, 229, 1);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 6.00px;
+      border-top-right-radius: 6.00px;
+      border-bottom-left-radius: 6.00px;
+      border-bottom-right-radius: 6.00px;
+      box-shadow: none;
+      width: 556.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .datePicker .text24167665 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(201, 212, 229, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 493.19px;
+    height: 32.00px;
+    left: 24.00px;
+    top: 16.50px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .forgotPassword {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 32.00px;
+      letter-spacing: 0.00px;
+      color: rgba(48, 127, 244, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 556.00px;
+    height: 32.00px;
+    left: 0.00px;
+    top: 496.50px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .button789e4b9a {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 556.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 243.00px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .button789e4b9a .rectagle9150921c {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(48, 127, 244, 1);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 6.00px;
+      border-top-right-radius: 6.00px;
+      border-bottom-left-radius: 6.00px;
+      border-bottom-right-radius: 6.00px;
+      box-shadow: none;
+      width: 555.00px;
+    height: 59.00px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .button789e4b9a .textd2df321b {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 34.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 20.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 501.42px;
+    height: 34.00px;
+    left: 27.29px;
+    top: 15.00px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .logIn {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 64.00px;
+      letter-spacing: 0.00px;
+      color: rgba(229, 83, 85, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 32.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 330.00px;
+    height: 56.00px;
+    left: 0.00px;
+    top: 348.50px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .logIn .logIn-0 {
+    color: rgba(45, 50, 75, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32.00px;
+    font-family: Poppins, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.x1LayoutsDesktopForms .group90 .logIn .logIn-3 {
+    color: rgba(229, 83, 85, 1);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32.00px;
+    font-family: Poppins, Arial;
+    letter-spacing: 0;
+    text-decoration: none;
+}
+
+.x1LayoutsDesktopForms .group90 .button {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 556.00px;
+    height: 60.00px;
+    left: 0.00px;
+    top: 558.00px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .button .rectagle {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(48, 127, 244, 1);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 6.00px;
+      border-top-right-radius: 6.00px;
+      border-bottom-left-radius: 6.00px;
+      border-bottom-right-radius: 6.00px;
+      box-shadow: none;
+      width: 555.00px;
+    height: 59.00px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+
+.x1LayoutsDesktopForms .group90 .button .text {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 34.00px;
+      letter-spacing: 0.00px;
+      color: rgba(255, 255, 255, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 20.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 501.42px;
+    height: 34.00px;
+    left: 27.29px;
+    top: 15.00px;
+
+}
+
+.x1LayoutsDesktopForms .ellipse746 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(48, 127, 244, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 31.73px;
+    height: 31.88px;
+    left: 54.00px;
+    top: 50.36px;
+
+}
+
+.x1LayoutsDesktopForms .appsmith {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(48, 127, 244, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 16.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 81.00px;
+    height: 23.00px;
+    left: 104.00px;
+    top: 54.00px;
+
+}
+
+.x1LayoutsDesktopForms .characterBuilder3dPeoplePersonCharacterAfricanAmericanWomanArmsCrossed {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets_login/characterBuilder3dPeoplePersonCharacterAfricanAmericanWomanArmsCrossed.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 483.33px;
+    height: 483.33px;
+    left: 1371.33px;
+    top: 406.00px;
+
+}
+
+.x1LayoutsDesktopForms .characterBuilder3dPeoplePersonCharacterAfricanAmericanWomanArmsCrossed .group {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 483.33px;
+    height: 483.33px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.x1LayoutsDesktopForms .characterBuilder3dPeoplePersonCharacterAfricanAmericanWomanArmsCrossed .group .crossedpsd {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets_login/crossedpsd.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 482.33px;
+    height: 482.33px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+

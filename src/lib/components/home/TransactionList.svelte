@@ -1,47 +1,31 @@
-<script></script>
+<script>
+
+import { dashboard_com2 } from "$lib/store";
+
+
+</script>
 
 <section class="py-8">
     <div class="container px-4 mx-auto">
       <div class="pt-4 bg-white shadow rounded">
         <div class="flex px-6 pb-4 border-b">
-          <h3 class="text-xl font-bold">Charge Back Transactions List</h3>
+          <h3 class="text-xl font-bold">{ $dashboard_com2.charge_back_transactionlist.title }</h3>
         </div>
         <div class="p-4 overflow-x-auto">
+          <!-- svelte-ignore component-name-lowercase -->
           <table class="table-auto w-full">
             <thead>
               <tr class="text-xs text-gray-500 text-left"><th class="pb-3 font-medium">Number</th><th class="pb-3 font-medium">Transaction</th><th class="pb-3 font-medium">Amount</th><th class="pb-3 font-medium">Date</th></tr>
             </thead>
             <tbody>
+              {#each $dashboard_com2.charge_back_transactionlist.table as item }
               <tr class="text-xs bg-gray-50">
-                <td class="py-5 px-6 font-medium">1</td>
-                <td class="font-medium">MSTRSTxxxxxxxxxxxxxxxxx</td>
-                <td class="font-medium">9797 Baht</td>
-                <td class="font-medium">February 22, 2022</td>
+                <td class="py-5 px-6 font-medium">xxxx</td>
+                <td class="font-medium">{item.transaction}</td>
+                <td class="font-medium">{item.amount} Baht</td>
+                <td class="font-medium">{item.date}</td>
               </tr>
-              <tr class="text-xs">
-                <td class="py-5 px-6 font-medium">2</td>
-                <td class="font-medium">MSTRSTxxxxxxxxxxxxxxxxx</td>
-                <td class="font-medium">4804 Baht</td>
-                <td class="font-medium">February 22, 2022</td>
-              </tr>
-              <tr class="text-xs bg-gray-50">
-                <td class="py-5 px-6 font-medium">3</td>
-                <td class="font-medium">MSTRSTxxxxxxxxxxxxxxxxx</td>
-                <td class="font-medium">4804 Baht</td>
-                <td class="font-medium">February 22, 2022</td>
-              </tr>
-              <tr class="text-xs">
-                <td class="py-5 px-6 font-medium">4</td>
-                <td class="font-medium">MSTRSTxxxxxxxxxxxxxxxxx</td>
-                <td class="font-medium">4804 Baht</td>
-                <td class="font-medium">February 22, 2022</td>
-              </tr>
-              <tr class="text-xs bg-gray-50">
-                <td class="py-5 px-6 font-medium">5</td>
-                <td class="font-medium">MSTRSTxxxxxxxxxxxxxxxxx</td>
-                <td class="font-medium">4804 Baht</td>
-                <td class="font-medium">Monthly</td>
-              </tr>
+              {/each}
             </tbody>
           </table>
           <div class="text-center mt-5">

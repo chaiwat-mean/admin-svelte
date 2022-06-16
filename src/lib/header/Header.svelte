@@ -20,7 +20,7 @@
 						</a>
 					</li>
 					<li>
-						<a class="flex mr-10 items-center text-gray-500 hover:text-gray-600 text-sm" href="/">
+						<a class="flex mr-10 items-center text-gray-500 hover:text-gray-600 text-sm" href="/partners">
 							<span>Partners</span>
 						</a>
 					</li>

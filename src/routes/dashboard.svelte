@@ -1,0 +1,717 @@
+<script>
+	import '../admin/css/web19201.css';
+</script>
+
+<div data-layer="57294b64-cd79-429c-8861-12a412297751" class="web19201">
+	<div data-layer="f440c31c-b22c-4aa0-87d5-b3c7da2bb516" class="group6915">
+		<div data-layer="5e228a7d-9e08-4cb0-a09f-254653eac75f" class="allLogsHere">All logs here</div>
+		<div data-layer="3c482e84-4e7f-4447-8ae0-ddd89a1eaf74" class="group6779">
+			<div data-layer="f396c171-bfb6-4fae-86c4-1c67e903b5dc" class="rectangle1624fc7014e2" />
+			<svg
+				data-layer="f0f9b245-b5a8-47d6-8fa1-37fa4ac4244d"
+				preserveAspectRatio="none"
+				viewBox="311.7887878417969 184 274.2112121582031 294.68988037109375"
+				class="path9360defb3b9"
+				><path
+					d="M 586 184 L 311.7887878417969 478.6898803710938 L 311.7887878417969 184 L 586 184 Z"
+				/></svg
+			>
+		</div>
+		<div data-layer="6cd95cc1-8993-4aeb-b2be-5fde3ee1c6d7" class="x9999">9,999</div>
+		<div data-layer="b34d88c5-df9d-4260-88fb-393d74b94912" class="approvedPartners">
+			Approved partners
+		</div>
+		<div data-layer="1828ecc3-ebf2-4ac1-a1c5-ef3ab115e864" class="group6780">
+			<div data-layer="c4c43b2a-ade9-40dd-a2db-8c760c62d440" class="rectangle1627da96c29c" />
+			<div data-layer="2de9a656-1ced-409a-bd58-50dd3845f9d5" class="iconlybulk2Userb7251d64" />
+		</div>
+		<div data-layer="050d2c94-8cff-433a-b055-5757755e2536" class="group6781">
+			<div data-layer="b0d0d51b-b568-47d7-b4b2-2f6e8765e805" class="rectangle1624" />
+			<svg
+				data-layer="48e4aef8-144a-4465-8f0e-f0b4af217859"
+				preserveAspectRatio="none"
+				viewBox="311.7887878417969 184 274.211181640625 294.68988037109375"
+				class="path936"
+				><path
+					d="M 586 184 L 311.7887878417969 478.6898803710938 L 311.7887878417969 184 L 586 184 Z"
+				/></svg
+			>
+		</div>
+		<div data-layer="46c675cf-23d8-4f61-a23a-4a89ea9f8d41" class="x999">999</div>
+		<div data-layer="57bc56c9-4acc-4a19-9a75-02a0e0d5b1b2" class="transactionsMade">
+			Transactions made
+		</div>
+		<div data-layer="2fba2cdb-7509-4530-af07-f88fedc1d56d" class="group6782">
+			<div data-layer="df7d4363-7fb3-479d-b095-60278c1fa40e" class="rectangle1627" />
+			<div data-layer="4be32d27-2ff6-49e0-a927-3949c60b0c29" class="group6783" />
+		</div>
+		<div data-layer="c9f6530f-8126-4923-a7d2-45fd7ec4d545" class="group6789">
+			<div data-layer="450830df-096b-4683-b65a-3ae2e8ceb2e0" class="group6784" />
+			<div data-layer="fcd07bb0-5bf6-465b-adb9-b4b82df2dbd5" class="group6787" />
+			<div data-layer="f910a4c9-6e1f-4fb2-9201-9dd1b5190842" class="group6786">
+				<svg
+					data-layer="f2b8a597-68a2-4259-a545-ca3490086607"
+					preserveAspectRatio="none"
+					viewBox="0 0 84 84"
+					class="ellipse16"
+					><path
+						d="M 42 0 C 65.19596099853516 0 84 18.80404090881348 84 42 C 84 65.19596099853516 65.19596099853516 84 42 84 C 18.80404090881348 84 0 65.19596099853516 0 42 C 0 18.80404090881348 18.80404090881348 0 42 0 Z"
+					/></svg
+				>
+				<div data-layer="907a06da-3733-4353-9bbb-95f0766ba868" class="maskGroup4" />
+			</div>
+			<div data-layer="0a3f052b-da5a-416e-8ab0-3833aad3b0fd" class="group6788" />
+			<svg
+				data-layer="56ed4132-ccef-4893-ae08-68b33e079365"
+				preserveAspectRatio="none"
+				viewBox="0 0 84 84"
+				class="ellipse28"
+				><path
+					d="M 42 0 C 65.19596099853516 0 84 18.80404090881348 84 42 C 84 65.19596099853516 65.19596099853516 84 42 84 C 18.80404090881348 84 0 65.19596099853516 0 42 C 0 18.80404090881348 18.80404090881348 0 42 0 Z"
+				/></svg
+			>
+			<div data-layer="2ffab03e-890d-422a-8614-c2a44c25ec93" class="x430">+430</div>
+		</div>
+		<div data-layer="5330db65-cd29-402d-b7cb-c9abd6716741" class="x434">434</div>
+		<div data-layer="c8ebd70b-691c-48ca-b770-57ca287e9f0a" class="logsFromUsers3aa1930e">
+			Logs from users
+		</div>
+		<svg
+			data-layer="fa284e23-bd78-4ff0-b2c5-6e0d1833a7ef"
+			preserveAspectRatio="none"
+			viewBox="6293.65185546875 116.64999389648438 5.607421875 10.43798828125"
+			class="path578"
+			><path
+				d="M 6293.873046875 116.8721389770508 C 6293.578125 117.168342590332 6293.578125 117.6482925415039 6293.873046875 117.9444808959961 L 6297.70166015625 121.7744216918945 C 6297.75439453125 121.8270645141602 6297.75439453125 121.9109115600586 6297.70166015625 121.9635543823242 L 6293.873046875 125.7934951782227 C 6293.578125 126.0896835327148 6293.578125 126.5696487426758 6293.873046875 126.865837097168 C 6294.16796875 127.1620407104492 6294.6494140625 127.1620407104492 6294.9443359375 126.865837097168 L 6298.771484375 123.0358963012695 C 6299.421875 122.3917770385742 6299.421875 121.3461990356445 6298.771484375 120.7020645141602 L 6294.9443359375 116.8721389770508 C 6294.6494140625 116.5759506225586 6294.16796875 116.5759506225586 6293.873046875 116.8721389770508 Z"
+			/></svg
+		>
+		<svg
+			data-layer="1b2b9793-469d-4971-a091-9c8d1a807bac"
+			preserveAspectRatio="none"
+			viewBox="1279.25 123.32821655273438 1.5 965.4232177734375"
+			class="path937"><path d="M 1280 124.0782165527344 L 1280 1088.00146484375" /></svg
+		>
+		<div data-layer="3b79fab5-3723-4453-9bc0-12e8fbbf5786" class="chargeBackTransactionsList">
+			Charge Back Transactions List
+		</div>
+		<div data-layer="c739dd77-79ae-4c13-94af-79579c660eca" class="thingsToDoLists">
+			Things to do Lists
+		</div>
+		<div data-layer="2dff297a-9b72-4739-b8b5-5bc6f1b73c07" class="group6795">
+			<div data-layer="6aec7ec1-4e9b-4685-9b14-56248be966e2" class="rectangle1628" />
+			<svg
+				data-layer="a110154c-56a8-4773-b785-1567e17a61ea"
+				preserveAspectRatio="none"
+				viewBox="327.25 611.1019287109375 899.060546875 1.5"
+				class="path2505"
+				><path d="M 328 611.8519287109375 L 1225.560546875 611.8519287109375" /></svg
+			>
+			<div data-layer="7d6ef291-567f-49d6-b16b-1cf7dc906eda" class="number">Number</div>
+			<div data-layer="762a3c5b-60e1-45c1-8d37-e671bd7c49bb" class="transaction">Transaction</div>
+			<div data-layer="14dd4e76-30fd-429e-b6e8-c883805fba33" class="amount">Amount</div>
+			<div data-layer="dab58f62-27d5-4abf-b3c4-abff205428f9" class="date">Date</div>
+			<div data-layer="71e693ec-518a-45a5-bc76-990c79514337" class="x1">1</div>
+			<div data-layer="f8d0ed57-ac34-4ae9-9c7a-6e23aa39f103" class="x28b039067">2</div>
+			<div data-layer="c7a47018-b20c-47d5-9792-3276b68ab94c" class="x3">3</div>
+			<div data-layer="755b3c2a-4317-4895-8252-4a7d96b2a497" class="repeatGrid1">
+				<div data-layer="79771e5d-932a-4baa-aaaf-ae55b9168e85" class="repeatGrid171f98dde081c">
+					<div
+						data-layer="d8e04f5d-3fdf-481f-b9a1-a3af790c45d5"
+						class="mstrstxxxxxxxxxxxxxxxxxc15f01d4"
+					>
+						MSTRSTxxxxxxxxxxxxxxxxx
+					</div>
+					<div data-layer="8dc5a1d4-ab03-4d15-81f0-522c06f5c182" class="x9797Baht">9797 Baht</div>
+					<div data-layer="0bdd890b-7eee-4e51-88ad-daad89ded335" class="february222022">
+						February 22, 2022
+					</div>
+				</div>
+				<div data-layer="a3e38d28-5df1-4b0e-a801-9b9a4c184221" class="repeatGrid12526cb4d33f7">
+					<div
+						data-layer="e5a2da2d-cff1-40ec-9915-d1063cd088dd"
+						class="mstrstxxxxxxxxxxxxxxxxxf49034c6"
+					>
+						MSTRSTxxxxxxxxxxxxxxxxx
+					</div>
+					<div data-layer="4b1e7101-ec1e-4e59-bba4-cfb4d7ebf038" class="x4804Baht">4804 Baht</div>
+					<div data-layer="66dcf873-3395-40b4-884b-e1fff75b9d7d" class="march52022">
+						March 5, 2022
+					</div>
+				</div>
+				<div data-layer="0e338a96-b6bd-48f8-9814-d482a4d2a304" class="repeatGrid14134c085698a">
+					<div data-layer="24a7ce0d-2fa1-4600-b2b5-60a7b2335957" class="mstrstxxxxxxxxxxxxxxxxx">
+						MSTRSTxxxxxxxxxxxxxxxxx
+					</div>
+					<div data-layer="0d0a5c3a-1022-4d62-9701-c46fd7df01a8" class="x6296Baht">6296 Baht</div>
+					<div data-layer="a6ed063c-07fd-4027-a8e8-9b985f213142" class="april32022">
+						April 3, 2022
+					</div>
+				</div>
+			</div>
+		</div>
+		<div data-layer="36684e8a-b2c6-49ee-9f4b-9401e507bcac" class="tags">
+			<div data-layer="537c8c4d-2b48-4647-9d54-8b87620f2fe1" class="activeTasks">Active Tasks</div>
+			<div data-layer="49af3c7a-5119-4dc1-94bb-13afdfa59401" class="completed">Completed</div>
+			<svg
+				data-layer="8ec1fe4e-57f7-44a9-a1be-89eb0b967f9d"
+				preserveAspectRatio="none"
+				viewBox="327.25 883.5219116210938 923.5 1.5"
+				class="path2506"><path d="M 328 884.2719116210938 L 1250 884.2719116210938" /></svg
+			>
+			<svg
+				data-layer="350480fc-ef77-427e-8ed0-e0c3593e6cc4"
+				preserveAspectRatio="none"
+				viewBox="325.7500305175781 882.0219116210938 92.49996948242188 4.5"
+				class="path2507"
+				><path d="M 416 884.2719116210938 L 328.0000305175781 884.2719116210938" /></svg
+			>
+		</div>
+		<div data-layer="c709dc69-97a4-433f-9480-66c9e982a199" class="group6794">
+			<svg
+				data-layer="8ddd3bda-bb30-4695-a99f-57071f5548ce"
+				preserveAspectRatio="none"
+				viewBox="0 0 102 35"
+				class="path2508b09ad23b"
+				><path
+					d="M 17.5 0 L 84.5 0 C 94.16498565673828 0 102 7.835016250610352 102 17.5 C 102 27.16498374938965 94.16498565673828 35 84.5 35 L 17.5 35 C 7.835016250610352 35 0 27.16498374938965 0 17.5 C 0 7.835016250610352 7.835016250610352 0 17.5 0 Z"
+				/></svg
+			>
+			<div data-layer="ab19d16f-08c4-4ba1-9a24-0449798846b1" class="group6793cd158d23">
+				<div data-layer="14c9d76f-ab4d-4abd-9e6f-52ae6d5b4c05" class="group6792fc5abfe2">
+					<svg
+						data-layer="5e10e4e4-957a-4b48-8c45-0d0705d703eb"
+						preserveAspectRatio="none"
+						viewBox="7252.14892578125 115.1500015258789 1.4736328125 11.8663330078125"
+						class="path6421cd5fdbb"
+						><path
+							d="M 7252.88623046875 115.1500015258789 C 7253.29248046875 115.1500015258789 7253.62255859375 115.4800033569336 7253.62255859375 115.8862380981445 L 7253.62255859375 126.2801132202148 C 7253.62255859375 126.6863327026367 7253.29248046875 127.0163650512695 7252.88623046875 127.0163650512695 C 7252.47900390625 127.0163650512695 7252.14892578125 126.6863327026367 7252.14892578125 126.2801132202148 L 7252.14892578125 115.8862380981445 C 7252.14892578125 115.4800033569336 7252.47900390625 115.1500015258789 7252.88623046875 115.1500015258789 Z"
+						/></svg
+					>
+					<svg
+						data-layer="97a6a609-34d4-42e1-80c0-ed6bde7b80d4"
+						preserveAspectRatio="none"
+						viewBox="7246.150390625 121.14999389648438 11.8662109375 1.4725341796875"
+						class="path6434ab65e13"
+						><path
+							d="M 7246.150390625 121.88623046875 C 7246.150390625 121.4800109863281 7246.4794921875 121.1499938964844 7246.8857421875 121.1499938964844 L 7257.2802734375 121.1499938964844 C 7257.6875 121.1499938964844 7258.0166015625 121.4800109863281 7258.0166015625 121.88623046875 C 7258.0166015625 122.2924652099609 7257.6875 122.6224670410156 7257.2802734375 122.6224670410156 L 7246.8857421875 122.6224670410156 C 7246.4794921875 122.6224670410156 7246.150390625 122.2924652099609 7246.150390625 121.88623046875 Z"
+						/></svg
+					>
+				</div>
+				<div data-layer="9343e949-2681-40f3-ab43-a80b72af90fd" class="createa9373dd2">Create</div>
+			</div>
+		</div>
+		<div data-layer="4bae77df-737d-4249-9713-2b2969a46214" class="task46211338">
+			<div data-layer="2f18a49b-c184-4c88-affb-54b7900b7904" class="rectangle1629d84c02e9" />
+			<div data-layer="6e20c3c9-9fd8-4884-922d-a3b18bd3038e" class="rectangle1631c8dd035c" />
+			<div data-layer="5a943997-0737-46a0-b39d-7e03a0657e0a" class="newProjectX0293cba5">
+				New project X
+			</div>
+			<div
+				data-layer="e139abe0-db27-4a76-bd48-1a272dd2a2f1"
+				class="loremIpsumDolorSitAmetConsecteturAdipiscingElitb62ebdd9"
+			>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit
+			</div>
+			<svg
+				data-layer="b7fec6b5-4e60-424e-8aa7-9272deee2295"
+				preserveAspectRatio="none"
+				viewBox="797.5753173828125 917.25 1.5 18.325927734375"
+				class="path2509f93d37bb"
+				><path d="M 798.3253173828125 918 L 798.3253173828125 934.8258666992188" /></svg
+			>
+			<div data-layer="44d771da-234a-45dd-894e-38016b2dbc5d" class="chat27109221">
+				<svg
+					data-layer="4605b03c-a5ad-4292-8679-953bef2b2e07"
+					preserveAspectRatio="none"
+					viewBox="-0.75 -0.75 18.176910400390625 18.15191650390625"
+					class="fill1d510ab92"
+					><path
+						d="M 8.355127334594727 0 C 3.51048755645752 0 0 3.952425241470337 0 8.33845043182373 C 0 9.739309310913086 0.4085840582847595 11.18186092376709 1.125690817832947 12.4993371963501 C 1.259105920791626 12.71613597869873 1.275782942771912 12.99130535125732 1.184059858322144 13.24979782104492 L 0.6253837943077087 15.11760902404785 C 0.500307023525238 15.56788635253906 0.8838756680488586 15.90142345428467 1.309136748313904 15.76800918579102 L 2.993503570556641 15.26770114898682 C 3.452118158340454 15.11760902404785 3.810672044754028 15.30939483642578 4.236766338348389 15.56788635253906 C 5.454180240631104 16.28499412536621 6.970944404602051 16.65188407897949 8.33845043182373 16.65188407897949 C 12.47432136535645 16.65188407897949 16.67690086364746 13.45825862884521 16.67690086364746 8.313434600830078 C 16.67690086364746 3.877379417419434 13.0913667678833 0 8.355127334594727 0"
+					/></svg
+				>
+				<svg
+					data-layer="9e71d523-9f28-4bba-ad8e-a8688f060d16"
+					preserveAspectRatio="none"
+					viewBox="-0.75 -0.7500002384185791 11.322784423828125 3.63519287109375"
+					class="combinedShape9450abf3"
+					><path
+						d="M 7.688467979431152 1.067258954048157 C 7.688467979431152 0.4751456081867218 8.163509368896484 0.0001041013238136657 8.755622863769531 0.0001041013238136657 C 9.347736358642578 0.0001041013238136657 9.822776794433594 0.4751456081867218 9.822776794433594 1.067258954048157 C 9.822776794433594 1.651117205619812 9.347736358642578 2.135164499282837 8.755622863769531 2.135164499282837 C 8.163509368896484 2.135164499282837 7.688467979431152 1.651117205619812 7.688467979431152 1.067258954048157 Z M 3.844609260559082 1.059003829956055 C 3.844609260559082 0.4751456081867218 4.327905654907227 -0.008150964044034481 4.911764144897461 0.0001041013238136657 C 5.50387716293335 0.0001041013238136657 5.97891902923584 0.4751456081867218 5.97891902923584 1.067258954048157 C 5.97891902923584 1.651117205619812 5.50387716293335 2.135164499282837 4.911764144897461 2.135164499282837 C 4.319650650024414 2.126158952713013 3.844609260559082 1.651117205619812 3.844609260559082 1.059003829956055 Z M 7.205004237675894e-08 1.067258954048157 C 7.205004237675894e-08 0.4751456081867218 0.475041538476944 0.0001041013238136657 1.067155003547668 0.0001041013238136657 C 1.659268379211426 0.0001041013238136657 2.134309768676758 0.4751456081867218 2.134309768676758 1.067258954048157 C 2.134309768676758 1.651117205619812 1.659268379211426 2.126158952713013 1.067155003547668 2.135164499282837 C 0.483296662569046 2.135164499282837 7.205004237675894e-08 1.651117205619812 7.205004237675894e-08 1.067258954048157 Z"
+					/></svg
+				>
+			</div>
+			<div data-layer="825fb372-f9ca-4390-a6cb-9147defcaaa8" class="x122Commentsb08e8ec9">
+				122 Comments
+			</div>
+			<div data-layer="240c4d89-1d63-406f-be66-0745a7dc5294" class="group67963ee7f471">
+				<div data-layer="ee6835a8-31ba-42a5-818f-14e305c9a0d8" class="rectangle1633eb5fb532" />
+				<div data-layer="f7efe1b8-cbed-436e-8262-a5a3a33e1f9a" class="rectangle163496a1bad2" />
+				<div data-layer="be4a2831-7d8e-4e05-a9d5-5e1a7f4be6ae" class="x44df8adfe3">44%</div>
+				<div data-layer="0031ab07-10ba-4a4a-b7d5-8240626dd134" class="progressaf2c7002">
+					Progress
+				</div>
+			</div>
+		</div>
+		<div data-layer="d65f21fa-0c83-4615-9480-c0bbf138c08e" class="task">
+			<div data-layer="1962d539-fe47-4849-bfe3-39c098dca1b9" class="rectangle1629" />
+			<div data-layer="0e53c00c-f6e2-450c-9ae5-75c163428139" class="rectangle1631" />
+			<div data-layer="e146a766-02aa-4c59-b7ca-e8606459f802" class="newProjectX">New project X</div>
+			<div
+				data-layer="96ff3353-4b69-4b14-9b33-b29bd0674d02"
+				class="loremIpsumDolorSitAmetConsecteturAdipiscingElit"
+			>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit
+			</div>
+			<svg
+				data-layer="315ef3c4-14fb-44d9-bdab-7612ffc108b3"
+				preserveAspectRatio="none"
+				viewBox="797.5753173828125 917.25 1.5 18.32586669921875"
+				class="path2509"
+				><path d="M 798.3253173828125 918 L 798.3253173828125 934.8258666992188" /></svg
+			>
+			<div data-layer="29a7e670-15ae-45eb-88ab-6014cdcfc125" class="chat">
+				<svg
+					data-layer="cdef5945-ddb6-41a7-a961-8b3690faecff"
+					preserveAspectRatio="none"
+					viewBox="-0.75 -0.75 18.176910400390625 18.15185546875"
+					class="fill1765f4ff5"
+					><path
+						d="M 8.355127334594727 0 C 3.51048755645752 0 0 3.952425241470337 0 8.33845043182373 C 0 9.739309310913086 0.4085840582847595 11.18186092376709 1.125690817832947 12.4993371963501 C 1.259105920791626 12.71613597869873 1.275782942771912 12.99130535125732 1.184059858322144 13.24979782104492 L 0.6253837943077087 15.11760902404785 C 0.500307023525238 15.56788635253906 0.8838756680488586 15.90142345428467 1.309136748313904 15.76800918579102 L 2.993503570556641 15.26770114898682 C 3.452118158340454 15.11760902404785 3.810672044754028 15.30939483642578 4.236766338348389 15.56788635253906 C 5.454180240631104 16.28499412536621 6.970944404602051 16.65188407897949 8.33845043182373 16.65188407897949 C 12.47432136535645 16.65188407897949 16.67690086364746 13.45825862884521 16.67690086364746 8.313434600830078 C 16.67690086364746 3.877379417419434 13.0913667678833 0 8.355127334594727 0"
+					/></svg
+				>
+				<svg
+					data-layer="30e33552-b2b3-451b-ac19-fc3056aab15d"
+					preserveAspectRatio="none"
+					viewBox="-0.75 -0.7500002384185791 11.322784423828125 3.63519287109375"
+					class="combinedShapea81174ca"
+					><path
+						d="M 7.688467979431152 1.067258954048157 C 7.688467979431152 0.4751456081867218 8.163509368896484 0.0001041013238136657 8.755622863769531 0.0001041013238136657 C 9.347736358642578 0.0001041013238136657 9.822776794433594 0.4751456081867218 9.822776794433594 1.067258954048157 C 9.822776794433594 1.651117205619812 9.347736358642578 2.135164499282837 8.755622863769531 2.135164499282837 C 8.163509368896484 2.135164499282837 7.688467979431152 1.651117205619812 7.688467979431152 1.067258954048157 Z M 3.844609260559082 1.059003829956055 C 3.844609260559082 0.4751456081867218 4.327905654907227 -0.008150964044034481 4.911764144897461 0.0001041013238136657 C 5.50387716293335 0.0001041013238136657 5.97891902923584 0.4751456081867218 5.97891902923584 1.067258954048157 C 5.97891902923584 1.651117205619812 5.50387716293335 2.135164499282837 4.911764144897461 2.135164499282837 C 4.319650650024414 2.126158952713013 3.844609260559082 1.651117205619812 3.844609260559082 1.059003829956055 Z M 7.205004237675894e-08 1.067258954048157 C 7.205004237675894e-08 0.4751456081867218 0.475041538476944 0.0001041013238136657 1.067155003547668 0.0001041013238136657 C 1.659268379211426 0.0001041013238136657 2.134309768676758 0.4751456081867218 2.134309768676758 1.067258954048157 C 2.134309768676758 1.651117205619812 1.659268379211426 2.126158952713013 1.067155003547668 2.135164499282837 C 0.483296662569046 2.135164499282837 7.205004237675894e-08 1.651117205619812 7.205004237675894e-08 1.067258954048157 Z"
+					/></svg
+				>
+			</div>
+			<div data-layer="0a3e6e55-d90f-400f-894d-f3ebd3a71cd7" class="x122Comments">122 Comments</div>
+			<div data-layer="5115b78a-d949-4f99-beea-f94b10520ee8" class="group6796">
+				<div data-layer="48318587-3429-4620-bca6-eac92345f5f0" class="rectangle1633" />
+				<div data-layer="4e0fa0f0-41f5-4f84-bf91-ea8410a3ac5a" class="rectangle1634" />
+				<div data-layer="c4067d2a-fd88-41fc-8746-58facb9bd4c6" class="x44">44%</div>
+				<div data-layer="123b05de-a6aa-4fce-bbca-bb1c6bba55a6" class="progress">Progress</div>
+			</div>
+		</div>
+		<div data-layer="b16b4f6d-4d5c-478d-a39f-67a88bc869c9" class="logsFromUsers">
+			Logs from Users
+		</div>
+		<div data-layer="5ace9b2a-3569-4075-9571-79e02277e7f0" class="activitiesFromAppsmith">
+			Activities from AppSmith
+		</div>
+		<svg
+			data-layer="425ef8cb-13c1-4ed4-961d-9eb9e1dd88f5"
+			preserveAspectRatio="none"
+			viewBox="327.25 883.5219116210938 558.5 1.5"
+			class="path2510"
+			><path d="M 328 884.2719116210938 L 884.9999389648438 884.2719116210938" /></svg
+		>
+		<svg
+			data-layer="3c43154a-9fc0-4f51-9732-9d2bf9c08ab3"
+			preserveAspectRatio="none"
+			viewBox="1325.7498779296875 201.02191162109375 149.5 4.5"
+			class="path2511"
+			><path d="M 1472.999877929688 203.2719116210938 L 1327.999877929688 203.2719116210938" /></svg
+		>
+		<div data-layer="7ea58f2d-ff76-4722-990f-fc502d9cbbfa" class="group6838">
+			<svg
+				data-layer="b7382685-245c-4dbc-8bc5-dc733134becd"
+				preserveAspectRatio="none"
+				viewBox="-0.75 -0.75 103.5 36.5"
+				class="path2508a7068fe5"
+				><path
+					d="M 17.5 0 L 84.5 0 C 94.16498565673828 0 102 7.835016250610352 102 17.5 C 102 27.16498374938965 94.16498565673828 35 84.5 35 L 17.5 35 C 7.835016250610352 35 0 27.16498374938965 0 17.5 C 0 7.835016250610352 7.835016250610352 0 17.5 0 Z"
+				/></svg
+			>
+			<div data-layer="47735413-2a38-42e5-a816-036e95652e7a" class="seeAll">See All</div>
+			<div data-layer="15125b1c-9d65-4d84-b8d8-6f6f1d0949ef" class="group6799">
+				<svg
+					data-layer="dc90a350-33dc-4dc9-a035-da3a3f26ec46"
+					preserveAspectRatio="none"
+					viewBox="0 0 102 35"
+					class="path2508"
+					><path
+						d="M 17.5 0 L 84.5 0 C 94.16498565673828 0 102 7.835016250610352 102 17.5 C 102 27.16498374938965 94.16498565673828 35 84.5 35 L 17.5 35 C 7.835016250610352 35 0 27.16498374938965 0 17.5 C 0 7.835016250610352 7.835016250610352 0 17.5 0 Z"
+					/></svg
+				>
+				<div data-layer="0f6c1558-15f0-4e20-99c9-9dd1d5f6e219" class="group6793c3e422a6">
+					<div data-layer="ae74f58f-54c5-454e-983d-6e2ff5d815a7" class="group6792">
+						<svg
+							data-layer="96fa3765-2591-4265-85ab-663529240b73"
+							preserveAspectRatio="none"
+							viewBox="7252.14892578125 115.1500015258789 1.4736328125 11.8663330078125"
+							class="path642"
+							><path
+								d="M 7252.88623046875 115.1500015258789 C 7253.29248046875 115.1500015258789 7253.62255859375 115.4800033569336 7253.62255859375 115.8862380981445 L 7253.62255859375 126.2801132202148 C 7253.62255859375 126.6863327026367 7253.29248046875 127.0163650512695 7252.88623046875 127.0163650512695 C 7252.47900390625 127.0163650512695 7252.14892578125 126.6863327026367 7252.14892578125 126.2801132202148 L 7252.14892578125 115.8862380981445 C 7252.14892578125 115.4800033569336 7252.47900390625 115.1500015258789 7252.88623046875 115.1500015258789 Z"
+							/></svg
+						>
+						<svg
+							data-layer="367a10c6-31db-4980-acc3-2d01b4446b33"
+							preserveAspectRatio="none"
+							viewBox="7246.150390625 121.14999389648438 11.8662109375 1.4725341796875"
+							class="path643"
+							><path
+								d="M 7246.150390625 121.88623046875 C 7246.150390625 121.4800109863281 7246.4794921875 121.1499938964844 7246.8857421875 121.1499938964844 L 7257.2802734375 121.1499938964844 C 7257.6875 121.1499938964844 7258.0166015625 121.4800109863281 7258.0166015625 121.88623046875 C 7258.0166015625 122.2924652099609 7257.6875 122.6224670410156 7257.2802734375 122.6224670410156 L 7246.8857421875 122.6224670410156 C 7246.4794921875 122.6224670410156 7246.150390625 122.2924652099609 7246.150390625 121.88623046875 Z"
+							/></svg
+						>
+					</div>
+					<div data-layer="71e95ffb-32cc-496a-9e5d-5176b2c8c90e" class="create">Create</div>
+				</div>
+			</div>
+		</div>
+		<div data-layer="0fef3a6a-0520-48be-8eda-c3f0c091f85b" class="repeatGrid2">
+			<div data-layer="bb85efc5-5b14-493f-8739-a1699e7c5200" class="group6801100a2f68">
+				<svg
+					data-layer="99d79b24-578a-4143-9885-3489bb5367fe"
+					preserveAspectRatio="none"
+					viewBox="327.25 883.5219116210938 541.427734375 1.5"
+					class="path25127bcddcf8"
+					><path d="M 328 884.2719116210938 L 867.9277954101562 884.2719116210938" /></svg
+				>
+				<div data-layer="9b4199e4-7ab2-428d-b899-7f9cd6fec0c8" class="rectangle16358f534554" />
+				<div data-layer="6032a363-f12f-4d9f-9ca2-15fad1eb2e58" class="group679805236b47">
+					<div data-layer="5824a98a-7ca8-4c83-8e31-3ab8fc1f8971" class="group67935090efbd">
+						<div data-layer="be63f4d5-47aa-494d-9354-434319e81778" class="jan22022">
+							Jan 2, 2022
+						</div>
+					</div>
+				</div>
+				<div data-layer="41084aca-dea9-4b66-882b-f753b6bf0db3" class="rectangle1636bf03a9da" />
+				<div data-layer="b3593206-be26-4130-9f9c-40f353a0194c" class="group6800bb62868c">
+					<svg
+						data-layer="d038fe81-b12d-47e7-a293-8df27df1a522"
+						preserveAspectRatio="none"
+						viewBox="0 0 64.240966796875 64.240966796875"
+						class="ellipse1076692e2b"
+						><path
+							d="M 32.1204833984375 0 C 49.86013793945312 0 64.240966796875 14.38083076477051 64.240966796875 32.1204833984375 C 64.240966796875 49.86013793945312 49.86013793945312 64.240966796875 32.1204833984375 64.240966796875 C 14.38083076477051 64.240966796875 0 49.86013793945312 0 32.1204833984375 C 0 14.38083076477051 14.38083076477051 0 32.1204833984375 0 Z"
+						/></svg
+					>
+					<div data-layer="a30dafd2-e80e-4ef7-9a45-fb89f1500e8a" class="maskGroup16a2965fa" />
+				</div>
+				<div data-layer="845f69e4-c415-48a9-b22e-adaaaa5b50c3" class="missAlfredLittle">
+					Miss Alfred Little
+				</div>
+				<div
+					data-layer="91e81ce8-ee31-4c0d-85d9-c06ab78d7f94"
+					class="x7MonthsAgoOnNewuser214355aaade5"
+				>
+					7 months ago on NewUser2143
+				</div>
+				<div data-layer="b5dd46a7-e496-453a-8f8c-b3a04f85a7ce" class="logsd19dbb9e">Logs</div>
+				<div
+					data-layer="e218cf82-f60f-4d6f-b564-7d1f67f48388"
+					class="facebookhttpswwwfacebookcomphotofbid5469037199782666setpcb54690449364485594487a709"
+				>
+					<span
+						class="facebookhttpswwwfacebookcomphotofbid5469037199782666setpcb54690449364485594487a709-0"
+						>Facebook<br /></span
+					><span
+						class="facebookhttpswwwfacebookcomphotofbid5469037199782666setpcb54690449364485594487a709-9"
+						>https://www.facebook.com/photo/?fbid=5469037199782666&set=pcb.5469044936448559</span
+					>
+				</div>
+				<div
+					data-layer="5cfb68df-7070-4b07-b41c-dc2db3a04b1b"
+					class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb546904493644855994331e47"
+				>
+					<span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb546904493644855994331e47-0"
+						>Instagram<br /></span
+					><span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb546904493644855994331e47-10"
+						>https://www.facebook.com/photo/?fbid=5469037199782666&set=pcb.5469044936448559</span
+					>
+				</div>
+				<div
+					data-layer="e81ef971-ee40-4385-8258-af5c98c80330"
+					class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559e017a43c"
+				>
+					<span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559e017a43c-0"
+						>Instagram<br /></span
+					><span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559e017a43c-10"
+						>https://www.facebook.com/photo/?fbid=5469037199782666&set=pcb.5469044936448559</span
+					>
+				</div>
+			</div>
+			<div data-layer="750027c1-f48d-4717-b483-a9e1f27c1f0b" class="group680146e5a3e1">
+				<svg
+					data-layer="9f4a7fba-0e91-495e-b1a9-97332aacf5e0"
+					preserveAspectRatio="none"
+					viewBox="327.25 883.5219116210938 541.427734375 1.5"
+					class="path2512610b3aeb"
+					><path d="M 328 884.2719116210938 L 867.9277954101562 884.2719116210938" /></svg
+				>
+				<div data-layer="0ee43025-2e21-46ee-a1dc-07655252eba8" class="rectangle163502b1c730" />
+				<div data-layer="5eb093f3-d47a-4dfc-ae6a-0267f5dfb2b4" class="group6798a3a89493">
+					<div data-layer="994023c4-f7b1-4f91-8f86-04e3e8d8c97a" class="group6793c0ae761d">
+						<div data-layer="31d7696c-3b33-4015-866b-28cfd663274c" class="jan32022">
+							Jan 3, 2022
+						</div>
+					</div>
+				</div>
+				<div data-layer="bddec4ab-3ec8-4209-99de-92f7f78749fd" class="rectangle16361f7f91b2" />
+				<div data-layer="f24d26f0-bc7b-446a-9358-fb8a88a0cfc2" class="group68003e946e44">
+					<svg
+						data-layer="d2c8e33f-dcdb-41d6-835f-baccb6216c53"
+						preserveAspectRatio="none"
+						viewBox="0 0 64.240966796875 64.240966796875"
+						class="ellipse10a7593f86"
+						><path
+							d="M 32.1204833984375 0 C 49.86013793945312 0 64.240966796875 14.38083076477051 64.240966796875 32.1204833984375 C 64.240966796875 49.86013793945312 49.86013793945312 64.240966796875 32.1204833984375 64.240966796875 C 14.38083076477051 64.240966796875 0 49.86013793945312 0 32.1204833984375 C 0 14.38083076477051 14.38083076477051 0 32.1204833984375 0 Z"
+						/></svg
+					>
+					<div data-layer="e03d0eb1-38dd-4c22-a3fc-a26c5ebbb297" class="maskGroup1e6dd5f8d" />
+				</div>
+				<div data-layer="2fa2392f-eaa1-4529-a5eb-86add94afbb3" class="floraWisoky">
+					Flora Wisoky
+				</div>
+				<div
+					data-layer="41c940a7-f661-434a-a01f-e457ae66bb87"
+					class="x7MonthsAgoOnNewuser2143a58e8fe4"
+				>
+					7 months ago on NewUser2143
+				</div>
+				<div data-layer="e00f7207-e5d9-416d-b540-84503cc7e241" class="logs141dcd1d">Logs</div>
+				<div
+					data-layer="bbe0e93f-e9b5-40ce-99ea-450b8985295b"
+					class="facebookhttpswwwfacebookcomphotofbid5469037199782666setpcb546904493644855960997e3a"
+				>
+					<span
+						class="facebookhttpswwwfacebookcomphotofbid5469037199782666setpcb546904493644855960997e3a-0"
+						>Facebook<br /></span
+					><span
+						class="facebookhttpswwwfacebookcomphotofbid5469037199782666setpcb546904493644855960997e3a-9"
+						>https://www.facebook.com/photo/?fbid=5469037199782666&set=pcb.5469044936448559</span
+					>
+				</div>
+				<div
+					data-layer="bbe7ff34-154b-4a70-9af3-2734e72c3509"
+					class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb546904493644855971db8185"
+				>
+					<span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb546904493644855971db8185-0"
+						>Instagram<br /></span
+					><span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb546904493644855971db8185-10"
+						>https://www.facebook.com/photo/?fbid=5469037199782666&set=pcb.5469044936448559</span
+					>
+				</div>
+				<div
+					data-layer="1f5d776c-e93f-44f6-98d8-97e2a094d929"
+					class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559870a61ed"
+				>
+					<span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559870a61ed-0"
+						>Instagram<br /></span
+					><span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559870a61ed-10"
+						>https://www.facebook.com/photo/?fbid=5469037199782666&set=pcb.5469044936448559</span
+					>
+				</div>
+			</div>
+			<div data-layer="84266d04-0fac-462e-bcfd-a8a21004e8db" class="group6801">
+				<svg
+					data-layer="e6f2d598-ab4b-4063-86ad-0f3bedea76b1"
+					preserveAspectRatio="none"
+					viewBox="327.25 883.5219116210938 541.427734375 1.5"
+					class="path2512"
+					><path d="M 328 884.2719116210938 L 867.9277954101562 884.2719116210938" /></svg
+				>
+				<div data-layer="bc8c3d0d-d1ef-4b0a-aec5-2377dc00deaa" class="rectangle1635" />
+				<div data-layer="0d5f949c-8a82-4b4b-96b0-a583db9f4b2c" class="group6798">
+					<div data-layer="0ff13858-aa6b-451d-a594-34ed758545e4" class="group6793">
+						<div data-layer="5bca3165-cbe0-45f9-85b1-d38a220872c7" class="jan42022">
+							Jan 4, 2022
+						</div>
+					</div>
+				</div>
+				<div data-layer="d060568b-5dde-4135-a945-08c1cacd62f8" class="rectangle1636" />
+				<div data-layer="f6384603-f311-4946-9ac2-7f397c397cf5" class="group6800">
+					<svg
+						data-layer="f5866892-762a-4e38-bc4b-0389bea34b91"
+						preserveAspectRatio="none"
+						viewBox="0 0 64.240966796875 64.240966796875"
+						class="ellipse10"
+						><path
+							d="M 32.1204833984375 0 C 49.86013793945312 0 64.240966796875 14.38083076477051 64.240966796875 32.1204833984375 C 64.240966796875 49.86013793945312 49.86013793945312 64.240966796875 32.1204833984375 64.240966796875 C 14.38083076477051 64.240966796875 0 49.86013793945312 0 32.1204833984375 C 0 14.38083076477051 14.38083076477051 0 32.1204833984375 0 Z"
+						/></svg
+					>
+					<div data-layer="fe8ee1ad-94e5-4550-83a9-4e8157dcca40" class="maskGroup1" />
+				</div>
+				<div data-layer="6e28c942-04a9-44b7-a8f0-3099328f1121" class="caroleKingIi">
+					Carole King II
+				</div>
+				<div data-layer="3841e9d0-272d-4c23-927e-580355a9006d" class="x7MonthsAgoOnNewuser2143">
+					7 months ago on NewUser2143
+				</div>
+				<div data-layer="2faf49eb-f172-41c1-8cba-1de16ab350cc" class="logs97617c23">Logs</div>
+				<div
+					data-layer="5c546126-897b-48fc-9b4a-2b1fd37f190c"
+					class="facebookhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559"
+				>
+					<span class="facebookhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559-0"
+						>Facebook<br /></span
+					><span
+						class="facebookhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559-9"
+						>https://www.facebook.com/photo/?fbid=5469037199782666&set=pcb.5469044936448559</span
+					>
+				</div>
+				<div
+					data-layer="b4a967bd-2ba4-46f8-9132-874030fe8566"
+					class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559fc811b66"
+				>
+					<span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559fc811b66-0"
+						>Instagram<br /></span
+					><span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559fc811b66-10"
+						>https://www.facebook.com/photo/?fbid=5469037199782666&set=pcb.5469044936448559</span
+					>
+				</div>
+				<div
+					data-layer="2f034b44-13b0-46b2-ab27-4d5f22c36f9a"
+					class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559"
+				>
+					<span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559-0"
+						>Instagram<br /></span
+					><span
+						class="instagramhttpswwwfacebookcomphotofbid5469037199782666setpcb5469044936448559-10"
+						>https://www.facebook.com/photo/?fbid=5469037199782666&set=pcb.5469044936448559</span
+					>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div data-layer="16237d04-ca69-4b01-8384-cbfb21128967" class="navBar7">
+		<div data-layer="7315cdbc-79ee-4d6d-9621-88d9c2c6546c" class="rectangle1623" />
+		<div data-layer="5f968e23-f484-4970-bf96-730eb1a93609" class="group6909">
+			<div data-layer="39271dc6-925a-47dd-b0fb-aebd2fa78223" class="rectangle1054" />
+			<div data-layer="817ec127-32f1-4cd4-a956-88051dae3989" class="group6765">
+				<div data-layer="4cb4e7a9-d3a0-4e65-a23d-93057301575c" class="group6905">
+					<div data-layer="aee68d51-2aa9-4e39-a4f7-77f6462a57a5" class="group2199" />
+					<div data-layer="ab83bdbb-af80-4612-97d4-1fc7e18d2992" class="home">Home</div>
+				</div>
+				<div data-layer="53aa466c-4564-4b21-ab4d-ea1496a4d299" class="group6888">
+					<div data-layer="c3f7c3bd-8a35-49bc-832d-d63c79377584" class="partners">Partners</div>
+					<div data-layer="8556441d-fd78-4e97-b093-e7495d1f5b4b" class="iconlybulk2User" />
+				</div>
+				<div data-layer="ad07ee7b-747b-413d-b0ef-d0eb82e65d31" class="group6889">
+					<div data-layer="c1dd7b98-4962-41d6-8d82-8a9d0c27121a" class="transactions">
+						Transactions
+					</div>
+					<div data-layer="431fd812-70fe-4dfd-8251-9361c6b6afbb" class="group6773" />
+				</div>
+				<div data-layer="32e1f796-90bc-4680-b888-cc99058653db" class="group6890">
+					<div data-layer="26e8c223-50b3-4ad5-8372-8a3ec502d98e" class="statements">Statements</div>
+					<div data-layer="5f42e5d3-34b5-43d7-9201-997b8c13a15b" class="document" />
+				</div>
+				<div data-layer="251253fa-1384-46bd-a9ba-8ab01c895745" class="group6892">
+					<div data-layer="c4c42f09-ab05-4452-a3a4-660425e774c4" class="group6774" />
+					<div data-layer="7062eb72-29d6-41d1-975b-c72da55a9d31" class="logs">Logs</div>
+				</div>
+				<div data-layer="83e4549b-ce39-4aa1-94a8-707ae8c9c04b" class="group6893">
+					<div data-layer="58d3cd22-7928-4895-9e78-53eaff37cb85" class="setting" />
+					<div data-layer="97e8605a-2bbb-4045-860e-b83ace5917cd" class="settings">Settings</div>
+				</div>
+				<div data-layer="a5326466-3f49-4461-8e7a-04221151c085" class="group6891">
+					<div data-layer="132e94b7-038e-4e16-8490-99f24bbdfd45" class="widthdraw">Widthdraw</div>
+					<div data-layer="adb20664-9b82-4464-a5ef-304eda987fb8" class="wallet" />
+					<svg
+						data-layer="81fc9b96-4d58-4c2b-ae37-411e06fb525c"
+						preserveAspectRatio="none"
+						viewBox="6116.15234375 162.14999389648438 9.5517578125 5.133544921875"
+						class="path2520"
+						><path
+							d="M 6116.3544921875 162.3533630371094 C 6116.6240234375 162.0822143554688 6117.06494140625 162.0822143554688 6117.3349609375 162.3533630371094 L 6120.83837890625 165.8595733642578 C 6120.8876953125 165.9069366455078 6120.96875 165.9069366455078 6121.01806640625 165.8595733642578 L 6124.52197265625 162.3533630371094 C 6124.79150390625 162.0822143554688 6125.232421875 162.0822143554688 6125.501953125 162.3533630371094 C 6125.771484375 162.6245269775391 6125.771484375 163.0639190673828 6125.501953125 163.3350677490234 L 6121.998046875 166.8412780761719 C 6121.41015625 167.4309539794922 6120.4462890625 167.4309539794922 6119.8583984375 166.8412780761719 L 6116.3544921875 163.3350677490234 C 6116.0849609375 163.0639190673828 6116.0849609375 162.6245269775391 6116.3544921875 162.3533630371094 Z"
+						/></svg
+					>
+				</div>
+			</div>
+			<div data-layer="f83559d9-011d-4781-a4dc-e2b06da94913" class="group6925">
+				<svg
+					data-layer="e26d2a0a-a6d6-4380-9322-e7e755282f19"
+					preserveAspectRatio="none"
+					viewBox="-0.75 -0.75 31.227401733398438 31.37647247314453"
+					class="ellipse746"
+					><path
+						d="M 14.86370182037354 0 C 23.07269668579102 0 29.72740364074707 6.688076019287109 29.72740364074707 14.93823528289795 C 29.72740364074707 23.18839454650879 23.07269668579102 29.8764705657959 14.86370182037354 29.8764705657959 C 6.654706954956055 29.8764705657959 0 23.18839454650879 0 14.93823528289795 C 0 6.688076019287109 6.654706954956055 0 14.86370182037354 0 Z"
+					/></svg
+				>
+				<div data-layer="23b1a308-6bd3-4c5d-b589-3eb52218f257" class="appsmith">AppSmith</div>
+			</div>
+			<div data-layer="35b2619e-82a9-4617-b0ca-6bf140cafe28" class="group6908">
+				<div data-layer="c608da0d-42f2-4725-84cc-fcdc4f616943" class="group6775">
+					<div data-layer="a8a4ef88-28c5-413d-bcce-a567ca34553b" class="group6802">
+						<svg
+							data-layer="bb9e66b6-11a3-40a9-95ed-58a254799966"
+							preserveAspectRatio="none"
+							viewBox="0 0 53.078125 53.078094482421875"
+							class="ellipse18"
+							><path
+								d="M 26.53904724121094 0 C 41.1961555480957 0 53.07809448242188 11.88193798065186 53.07809448242188 26.53904724121094 C 53.07809448242188 41.1961555480957 41.1961555480957 53.07809448242188 26.53904724121094 53.07809448242188 C 11.88193798065186 53.07809448242188 0 41.1961555480957 0 26.53904724121094 C 0 11.88193798065186 11.88193798065186 0 26.53904724121094 0 Z"
+							/></svg
+						>
+						<div data-layer="6b640e6d-52d1-4da5-8ee3-f13e38ee2639" class="maskGroup2" />
+					</div>
+				</div>
+				<div data-layer="2d823842-36bc-4afd-938d-e2e7187c56f4" class="group6906">
+					<svg
+						data-layer="d65ab1d4-1720-4ed0-a76b-8b0ebde568e6"
+						preserveAspectRatio="none"
+						viewBox="0 0 48 48"
+						class="path934ab9b0c30"
+						><path
+							d="M 24 0 C 37.25483322143555 0 48 10.74516773223877 48 24 C 48 37.25483322143555 37.25483322143555 48 24 48 C 10.74516773223877 48 0 37.25483322143555 0 24 C 0 10.74516773223877 10.74516773223877 0 24 0 Z"
+						/></svg
+					>
+					<div data-layer="1049e8d9-4e8e-4ef5-b8dd-751b00b49311" class="group6772">
+						<div data-layer="61b40fdc-45cc-4944-992d-e0080eddb209" class="iconlybulknotification" />
+						<div data-layer="e5c22fea-53ce-4c58-819e-32f67c67b483" class="group2202">
+							<svg
+								data-layer="6b0c749f-2af0-44b1-ab18-c2ecee588b96"
+								preserveAspectRatio="none"
+								viewBox="0 0 9.0240478515625 9.024093627929688"
+								class="ellipse1"
+								><path
+									d="M 4.512049674987793 0 C 7.003985404968262 0 9.024099349975586 2.020112037658691 9.024099349975586 4.512046337127686 C 9.024099349975586 7.00398063659668 7.003985404968262 9.024092674255371 4.512049674987793 9.024092674255371 C 2.020113706588745 9.024092674255371 0 7.00398063659668 0 4.512046337127686 C 0 2.020112037658691 2.020113706588745 0 4.512049674987793 0 Z"
+								/></svg
+							>
+							<div data-layer="212986c5-cfdc-4ead-b9d3-a9d422d9444f" class="x2">2</div>
+						</div>
+					</div>
+				</div>
+				<div data-layer="6f2574be-7212-4d76-b6f9-056311270c66" class="group6791">
+					<svg
+						data-layer="13402c6e-1bdd-4826-8aef-7b6a36c514dc"
+						preserveAspectRatio="none"
+						viewBox="0 0 48 48"
+						class="path938"
+						><path
+							d="M 24 0 C 37.25483322143555 0 48 10.74516868591309 48 24 C 48 37.25483322143555 37.25483322143555 48 24 48 C 10.74516868591309 48 0 37.25483322143555 0 24 C 0 10.74516868591309 10.74516868591309 0 24 0 Z"
+						/></svg
+					>
+					<div data-layer="22dc2892-4505-4ace-be0f-76a6a3475b58" class="group6790" />
+				</div>
+				<div data-layer="11816458-3d1d-4a15-8d6b-e25872a71b4d" class="group6910">
+					<svg
+						data-layer="cf5b631f-fd62-4fcf-8170-57629201795f"
+						preserveAspectRatio="none"
+						viewBox="0 0 48 48"
+						class="path934"
+						><path
+							d="M 24 0 C 37.25483322143555 0 48 10.74516773223877 48 24 C 48 37.25483322143555 37.25483322143555 48 24 48 C 10.74516773223877 48 0 37.25483322143555 0 24 C 0 10.74516773223877 10.74516773223877 0 24 0 Z"
+						/></svg
+					>
+				</div>
+				<div data-layer="1218e49b-2ca3-4706-b705-3bebdb4fc5f8" class="group6777" />
+			</div>
+		</div>
+	</div>
+</div>

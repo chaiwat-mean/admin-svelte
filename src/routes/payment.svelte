@@ -1,0 +1,838 @@
+<script>
+	import '../admin/css/web19206.css';
+</script>
+
+<div data-layer="b71e59b7-c186-4df4-9d8d-a0255e3b2113" class="web19206">
+	<div data-layer="ddec035c-52c3-4089-8624-b353bfed9932" class="group6795">
+		<div data-layer="8ce9c1cf-e1ee-4c20-9b7d-b4b1bc575f4a" class="group6803">
+			<div data-layer="5960db0c-eab8-4361-961f-0945714e373e" class="rectangle1628" />
+		</div>
+		<svg
+			data-layer="eb925659-728f-4bb1-81df-e5d75ecfc9af"
+			preserveAspectRatio="none"
+			viewBox="0 0 1646 48"
+			class="path2515"
+			><path
+				d="M 5.414473533630371 0 L 1640.58544921875 0 C 1643.575805664062 0 1645.999877929688 2.238576173782349 1645.999877929688 5 L 1645.999877929688 43 C 1645.999877929688 45.76142501831055 1643.575805664062 48 1640.58544921875 48 L 5.414473533630371 48 C 2.424142122268677 48 0 45.76142501831055 0 43 L 0 5 C 0 2.238576173782349 2.424142122268677 0 5.414473533630371 0 Z"
+			/></svg
+		>
+		<div data-layer="c20a3c9c-2509-420c-9910-f1db37bd3cf2" class="group6808">
+			<svg
+				data-layer="41368614-ffcd-44ab-ab76-d4d9463b3514"
+				preserveAspectRatio="none"
+				viewBox="327.2500305175781 611.1019287109375 1657.5 1.5"
+				class="path2505"
+				><path
+					d="M 328.0000305175781 611.8519287109375 L 1984.000122070312 611.8519287109375"
+				/></svg
+			>
+			<svg
+				data-layer="765439d6-521c-4d97-8dd5-549042ec7526"
+				preserveAspectRatio="none"
+				viewBox="327.25 611.1019287109375 1657.5 1.5"
+				class="path2513"
+				><path d="M 328 611.8519287109375 L 1984.000122070312 611.8519287109375" /></svg
+			>
+			<div data-layer="d23d400c-7f59-4880-b4d3-4e1c4535876f" class="createDate">Create date</div>
+			<div data-layer="03c9783d-e125-4149-a684-09e0bb598d45" class="updateDate">Update date</div>
+			<div data-layer="59e64313-1384-44fd-9988-97977c86d1d4" class="paymentChannel">
+				Payment channel
+			</div>
+			<div data-layer="2fd66bbf-d4a4-40ed-8aef-b83607d104f2" class="transactionId">
+				Transaction ID
+			</div>
+			<div data-layer="e2df32ab-651a-426f-9160-11287c9317b0" class="bankAmount">Bank Amount</div>
+			<div data-layer="99df663e-281d-4e18-bfd7-f4ef44953cc9" class="receivedAmount">
+				Received Amount
+			</div>
+			<div data-layer="82e6a8ee-56e2-4981-8b1b-f6f97f79f55f" class="fee">Fee</div>
+			<div data-layer="d51c24b1-1c76-4e6f-899b-5030e800d20e" class="vat">VAT</div>
+			<div data-layer="72888220-ee2f-4d02-b24c-36a1a872d0f5" class="repeatGrid16">
+				<div data-layer="b8d1f4ac-29b7-4deb-bdbb-4cd74eba8d59" class="group6840ec5c8f70">
+					<div data-layer="17a2aa7c-2600-4b3e-9671-417a60c18743" class="feb2220228bef682d">
+						Feb 22, 2022
+					</div>
+					<div data-layer="d09dfec9-cd74-48cd-821d-68dd55a01f30" class="creditCardfdc90f27">
+						Credit card
+					</div>
+					<div data-layer="c5510756-1cd8-4419-a148-d83a8e5e7977" class="x32345f790e529">32345</div>
+					<div data-layer="ec98a3ba-19f7-4220-9397-747fd0cda929" class="feb1320221428cf71">
+						Feb 13, 2022
+					</div>
+					<div data-layer="ba80bb52-c35a-4616-968a-6a0d421f8972" class="x324600a2f80eda">
+						3246.00
+					</div>
+					<div data-layer="13b23df1-7353-4c0b-b63e-4f17c1cbee89" class="mar72022503495d8">
+						Mar 7, 2022
+					</div>
+					<div data-layer="c126e0bc-781d-4e72-b391-287f84db5b98" class="feb2220228c0c2f55">
+						Feb 22, 2022
+					</div>
+					<div data-layer="735a7e3c-a2af-4f38-9226-bbe14c585803" class="group6924016f99a0">
+						<div data-layer="9f55d897-ca2a-4598-8a46-e019c58386d4" class="rectangle1663d014a022" />
+						<div data-layer="38a2041e-d407-4ec4-b096-fe718d309fd5" class="paySuccess9b2571b3">
+							PAY SUCCESS
+						</div>
+					</div>
+					<div data-layer="94043c3b-18e9-4ca5-bb89-bc33d783b287" class="group684116f854d7">
+						<div data-layer="1b916f11-09ee-4754-9c3d-62c0d667c9b4" class="rectangle1664ec9f4c1c" />
+						<div data-layer="f598028a-9c92-4661-a09e-524d0368ffef" class="failedPayment2c873c30">
+							FAILED PAYMENT
+						</div>
+					</div>
+					<div
+						data-layer="7b58a686-0c4e-44ff-ac23-1326f46411af"
+						class="maxt9305467879808765af7acde6"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="8ae9f304-11f3-4a62-9503-75fc439a010d" class="x230000983dc70d">
+						2300.00
+					</div>
+					<div data-layer="c4cb40ca-af8c-4712-b1af-dcd4a8c3504b" class="x230000bbd5fa18">
+						2300.00
+					</div>
+					<div data-layer="c7969889-2406-42d2-9339-9239361fc514" class="x230000eaa4b7f">230.00</div>
+					<div data-layer="d016c203-4f44-4d63-8ee6-f8ccd9e73fe5" class="x230002a2dc766">230.00</div>
+					<div data-layer="9fc85ebf-8ce6-42be-a30a-86dddb555d31" class="x32460058cb6502">
+						3246.00
+					</div>
+					<div data-layer="6317efc8-e019-4e05-981f-257e4d05c21e" class="feb22202263551fd5">
+						Feb 22, 2022
+					</div>
+					<div data-layer="2b61e187-380e-4121-bacb-31cc0b2fc9b6" class="feb2220220a48a44b">
+						Feb 22, 2022
+					</div>
+					<div data-layer="9d7e087c-d2b5-4e4a-b11e-4e60917438b9" class="creditCardbff4f454">
+						Credit card
+					</div>
+					<div
+						data-layer="c58fbc7b-5195-45ed-8639-0fb611c2a3f2"
+						class="maxt9305467879808765cc9c22fc"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="2176521d-20a9-4a0d-a8bb-ac0a412b456b" class="x32345784d7e62">32345</div>
+					<div data-layer="0b4a5cb1-0ce5-4547-a372-3b69ed2955c5" class="x230000a557ea2f">
+						2300.00
+					</div>
+					<div data-layer="7dce96b5-fb25-471a-895e-d11d11be34bb" class="x23000082c70c07">
+						2300.00
+					</div>
+					<div data-layer="01f1c900-4783-4655-9c7e-aee564d69472" class="x2300003b4adb6">230.00</div>
+					<div data-layer="701ec07f-602e-4d91-b592-3f58a25dfbc5" class="x23000907869a0">230.00</div>
+					<div data-layer="f72c68a2-602b-472f-9a5b-9e0dac9f9370" class="x324600f499b298">
+						3246.00
+					</div>
+					<div data-layer="3fad6a7e-d8ec-41aa-8967-87f0171da2a3" class="x32460019969904">
+						3246.00
+					</div>
+				</div>
+				<div data-layer="333a815b-6fbd-42b4-a40e-1983f9bb79e8" class="group6840ca8d46e4">
+					<div data-layer="5db7c55a-82db-4fdb-902f-cd3bf3c0cfa8" class="feb222022dcaf3ab7">
+						Feb 22, 2022
+					</div>
+					<div data-layer="0afcfa64-b39d-475f-a50e-e2a142dce13c" class="creditCardf274fc70">
+						Credit card
+					</div>
+					<div data-layer="d170a159-1ee7-4a6c-b4f1-cc95af206e13" class="x323451e7c45d7">32345</div>
+					<div data-layer="033fe289-cf1d-41de-b4f4-48adfcd41ee2" class="feb13202231a033cb">
+						Feb 13, 2022
+					</div>
+					<div data-layer="862a1545-41cd-4db9-abf7-e1065b0890e0" class="x324600de5d5419">
+						3246.00
+					</div>
+					<div data-layer="19338c66-65f9-47f2-8578-60ab2b4c1aba" class="mar720227e891144">
+						Mar 7, 2022
+					</div>
+					<div data-layer="eb52f9d4-cfd6-441d-bfe3-61cb340aff86" class="feb222022715be02d">
+						Feb 22, 2022
+					</div>
+					<div data-layer="6982c5d1-3e93-4efc-b170-77712297b387" class="group6924facf871d">
+						<div data-layer="c0921f2b-50d8-4667-b0a6-afaafb0e6e44" class="rectangle16632a352a47" />
+						<div data-layer="a4b86929-cd78-4686-b5eb-e4a330d61154" class="paySuccess015df2df">
+							PAY SUCCESS
+						</div>
+					</div>
+					<div data-layer="fad5dda7-818f-468d-a5d8-b822fa05981e" class="group6841a462cd09">
+						<div data-layer="b302d4cb-f033-4c30-81f2-27092dfd7588" class="rectangle1664a8a64c50" />
+						<div data-layer="75bb6898-cca5-4099-9592-67741b329dfe" class="failedPayment9b50d719">
+							FAILED PAYMENT
+						</div>
+					</div>
+					<div
+						data-layer="116e6460-fab3-41c8-af0a-cae26892ddc6"
+						class="maxt9305467879808765b1f91fbb"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="dc23115a-e407-4a15-8276-618cbdf38cf7" class="x23000015611f08">
+						2300.00
+					</div>
+					<div data-layer="04a1f043-9ba0-4e30-9707-698955d91b80" class="x2300002ec5c30f">
+						2300.00
+					</div>
+					<div data-layer="71bb5015-064f-4d15-9769-c56c65f43cc2" class="x2300078c60bd4">230.00</div>
+					<div data-layer="da97061e-fd39-4a68-a2a4-b7eceb9a6f24" class="x230004b97139d">230.00</div>
+					<div data-layer="373ee977-ee03-490f-8252-b5b1f75110b4" class="x324600c50e9b64">
+						3246.00
+					</div>
+					<div data-layer="8330ea00-1fdd-4985-b9f6-cad829a9f0d0" class="feb2220226ca1cea2">
+						Feb 22, 2022
+					</div>
+					<div data-layer="42624505-b5ef-47ac-8020-77c9ccf6fb08" class="feb222022ab349526">
+						Feb 22, 2022
+					</div>
+					<div data-layer="eb86c01a-8d28-4d4a-b904-de3b08ea6865" class="creditCardf05f0350">
+						Credit card
+					</div>
+					<div
+						data-layer="f424f7e1-3329-40f6-a2fb-c3e4146f2e28"
+						class="maxt93054678798087657c07a6b3"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="2615b106-68f3-4367-99e6-20c8639e4b2c" class="x32345ef3df42e">32345</div>
+					<div data-layer="0c36721e-9825-48e1-a3fa-2f29a89fbc64" class="x230000b5151b5d">
+						2300.00
+					</div>
+					<div data-layer="52361235-7f0b-4527-9439-f14d9bc4e52f" class="x2300001c0f8ca6">
+						2300.00
+					</div>
+					<div data-layer="263c272c-71b6-4e17-b31e-2cfa56c494e8" class="x23000f9649aaa">230.00</div>
+					<div data-layer="dd16407c-391b-454f-acf0-1fcf534c20ac" class="x23000b831b8d2">230.00</div>
+					<div data-layer="8268a572-0e32-4831-b47b-53ccf324beca" class="x324600e922eb7f">
+						3246.00
+					</div>
+					<div data-layer="59782e7f-540c-44de-8269-378cc77cf97c" class="x3246009fd38a2c">
+						3246.00
+					</div>
+				</div>
+				<div data-layer="7279be4a-bafc-4fc2-87e7-30511a7bf77f" class="group6840e293e18b">
+					<div data-layer="423c6ade-6ce5-41c2-9aa6-87fe0bc895ce" class="feb2220229ed58bf9">
+						Feb 22, 2022
+					</div>
+					<div data-layer="181efd4c-98c8-455d-9b1c-6b4d16341ad6" class="creditCardc5c1d2ee">
+						Credit card
+					</div>
+					<div data-layer="4e910bb2-5808-43c9-b535-de46b445d3e2" class="x323453bc639d8">32345</div>
+					<div data-layer="9ab8aef8-67a4-43c8-b632-95fe607aef5a" class="feb132022d2e292c2">
+						Feb 13, 2022
+					</div>
+					<div data-layer="50a871bf-c1b5-4aef-b513-f9b985001608" class="x324600e6308855">
+						3246.00
+					</div>
+					<div data-layer="9d0a6798-94de-47a5-b7d0-4e8bf1fae4d1" class="mar72022dcdfddd6">
+						Mar 7, 2022
+					</div>
+					<div data-layer="d384adf3-61ad-4ee5-9cea-ee54b4a9be2f" class="feb222022490c8c78">
+						Feb 22, 2022
+					</div>
+					<div data-layer="17e1b9be-39fe-4070-b462-6bbc6e8bf53a" class="group69246cc2cbd3">
+						<div data-layer="cabff189-4615-49a0-9d85-2485e984f282" class="rectangle1663301ead23" />
+						<div data-layer="39a300ac-1cdb-451b-8b73-0c46f00c51c5" class="paySuccess3bd6a44f">
+							PAY SUCCESS
+						</div>
+					</div>
+					<div data-layer="952c1a80-4c85-4e78-a7dd-d9f41a1450b9" class="group68419a3d3bf9">
+						<div data-layer="725f1624-073e-45a3-b3cb-390b7d014f62" class="rectangle166431ccd247" />
+						<div data-layer="48d7039f-6de0-423c-88dc-fe6e6713e845" class="failedPaymentb40aa2f4">
+							FAILED PAYMENT
+						</div>
+					</div>
+					<div
+						data-layer="8a5d8ba9-5481-41a6-86b5-e2df8210d7fb"
+						class="maxt9305467879808765a8556e2a"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="cb4f2bc8-237b-433c-b29a-ad04f2036d89" class="x2300006e77bc3b">
+						2300.00
+					</div>
+					<div data-layer="1b7c3d14-7137-42cb-aeea-e61bc0d36744" class="x2300008fa6afbe">
+						2300.00
+					</div>
+					<div data-layer="b394c4b5-fdb0-4461-bca6-ee1cf3677faa" class="x23000caccef24">230.00</div>
+					<div data-layer="4d635dda-b475-4acd-b691-415dad484f27" class="x2300058963346">230.00</div>
+					<div data-layer="8f1f5ac6-11a3-415d-833c-7e73aa85f58a" class="x324600a1df66a0">
+						3246.00
+					</div>
+					<div data-layer="e04f1d4b-747a-494e-bb97-84b6f167ef40" class="feb2220220430d253">
+						Feb 22, 2022
+					</div>
+					<div data-layer="f3559c87-4e4b-4125-9aac-88dcefe8e636" class="feb22202299e10e16">
+						Feb 22, 2022
+					</div>
+					<div data-layer="350d213a-d4f4-4d57-8d04-aa3059b2ad8f" class="creditCard7fa6cb61">
+						Credit card
+					</div>
+					<div
+						data-layer="bd918c5b-39c3-40f0-9ce0-82eeac5c8b57"
+						class="maxt9305467879808765ab690268"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="c1a3bdc2-b751-4faa-a15b-84d04d9a1452" class="x323453410dd28">32345</div>
+					<div data-layer="c7d712ff-5510-444b-9a77-10c3320519fc" class="x230000ca1045cc">
+						2300.00
+					</div>
+					<div data-layer="f38ec17d-e25d-4352-bd94-67835e829991" class="x2300005568f9e1">
+						2300.00
+					</div>
+					<div data-layer="8ed03fb8-84bb-47e8-90d2-ca716e7dd0a6" class="x23000c09b7487">230.00</div>
+					<div data-layer="cc85ce75-e80d-4a09-bd96-d370dfd2af3e" class="x2300028f01313">230.00</div>
+					<div data-layer="cd7f8d2e-854d-4251-b505-b7fe466e95fb" class="x3246002683b5bb">
+						3246.00
+					</div>
+					<div data-layer="d67a4042-a7f1-4e4f-855b-3e1abc0b6ffa" class="x324600bbc83d69">
+						3246.00
+					</div>
+				</div>
+				<div data-layer="938411b2-f11f-4e8c-8ae3-6851df970bc3" class="group68405efa3bc9">
+					<div data-layer="9f7bceef-854f-4323-abaf-941a2604554f" class="feb222022e5e46ffa">
+						Feb 22, 2022
+					</div>
+					<div data-layer="42dfd432-a129-4441-943d-eb669d19f8ff" class="creditCardfde85b4e">
+						Credit card
+					</div>
+					<div data-layer="791f54ef-a284-4d96-9df2-6715045899e3" class="x323456cc4a8c4">32345</div>
+					<div data-layer="c0eaa35d-494e-4bd9-b1e3-3b85e25b36e6" class="feb13202203f409c7">
+						Feb 13, 2022
+					</div>
+					<div data-layer="e908665c-723e-4fc9-a12c-f419dab851e2" class="x324600d80bc666">
+						3246.00
+					</div>
+					<div data-layer="f44fd313-f6b0-4be0-a5c3-7e8e097fc3bc" class="mar72022078f036d">
+						Mar 7, 2022
+					</div>
+					<div data-layer="ddf24e53-88eb-41f1-958a-5c98dff6fbc1" class="feb222022552d615b">
+						Feb 22, 2022
+					</div>
+					<div data-layer="0c2661da-d087-4fde-b561-918de3deea05" class="group6924b0efd434">
+						<div data-layer="ab536dba-6fac-48ad-852c-fb5f5b2d4488" class="rectangle16631057830f" />
+						<div data-layer="98b2c5aa-416a-486f-9f0c-445d92349a20" class="paySuccessd8ccd526">
+							PAY SUCCESS
+						</div>
+					</div>
+					<div data-layer="8fe7cecb-83bb-48c8-8e62-02545fdea906" class="group68414e59358f">
+						<div data-layer="04027dee-8929-4b38-818e-449c5600e7db" class="rectangle1664142ffb6d" />
+						<div data-layer="e369e9ce-8df9-41d6-be6f-3a33d59e03db" class="failedPayment1e1ec859">
+							FAILED PAYMENT
+						</div>
+					</div>
+					<div
+						data-layer="223c5ef9-5fc4-475e-8bd0-202f37b5955b"
+						class="maxt9305467879808765d9d16ca7"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="5dced20b-8d7c-43d3-87fa-a7601b391399" class="x2300007a66cb07">
+						2300.00
+					</div>
+					<div data-layer="8efed2b9-66e8-489d-846d-0ac7134c410d" class="x230000a6b85dcb">
+						2300.00
+					</div>
+					<div data-layer="cad77184-d1c4-42a8-81ce-f38fc9da87af" class="x2300041e06162">230.00</div>
+					<div data-layer="252d61f9-9086-4dae-9e9f-0b75c4cb045e" class="x23000a1846bc9">230.00</div>
+					<div data-layer="6c96c8a2-f5cc-423b-8f0e-9d5491ae1ad5" class="x324600d4cbcad6">
+						3246.00
+					</div>
+					<div data-layer="497965aa-d4bf-46fb-a9ef-77d550b37572" class="feb22202263f56203">
+						Feb 22, 2022
+					</div>
+					<div data-layer="44173c4c-3edc-43fa-b80a-b623419bfb04" class="feb22202255715554">
+						Feb 22, 2022
+					</div>
+					<div data-layer="efc08d24-b038-4f28-b33b-e228e3a5e626" class="creditCarddbe22489">
+						Credit card
+					</div>
+					<div
+						data-layer="d5829f2d-af29-42c0-a2dd-0b62a4b3eb85"
+						class="maxt930546787980876535b5b87c"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="e4291033-ab5b-4111-bfcb-f33bc562944a" class="x3234540521b82">32345</div>
+					<div data-layer="f6c7fd9a-e291-4a42-8bae-1bf489bc7970" class="x2300000b71b965">
+						2300.00
+					</div>
+					<div data-layer="532153f1-c419-4b22-8bec-4c39be1fb454" class="x230000dd2cfdde">
+						2300.00
+					</div>
+					<div data-layer="838326b9-99e7-47d2-b45f-102488dbdc01" class="x230005d12fc1b">230.00</div>
+					<div data-layer="9e653eb5-41be-4498-9e01-34e1de3d2fd6" class="x230008bb1c8f0">230.00</div>
+					<div data-layer="53e15736-21bc-4710-8d4e-dc5e8b50f96d" class="x32460095e99c03">
+						3246.00
+					</div>
+					<div data-layer="c970e3d0-4a01-49e1-a15f-40c4595420bf" class="x3246009f32d1f1">
+						3246.00
+					</div>
+				</div>
+				<div data-layer="2ea64809-805d-4576-8598-481893d0417b" class="group6840ba77e849">
+					<div data-layer="a91c99d2-5e8a-4da0-985c-8c29cccef060" class="feb222022d45930a6">
+						Feb 22, 2022
+					</div>
+					<div data-layer="9fcd3e3e-dfa4-4181-9cb1-26a8e3cb7890" class="creditCard00e6185e">
+						Credit card
+					</div>
+					<div data-layer="88e9b03d-4659-4aab-8a77-dce7278c8a7f" class="x32345decd8f22">32345</div>
+					<div data-layer="0a99de29-ebfa-4f1f-a14b-f43e380fe4b0" class="feb1320229d15f65b">
+						Feb 13, 2022
+					</div>
+					<div data-layer="70716d37-859b-4323-aba5-63c9f655dca8" class="x3246002c1d5d0d">
+						3246.00
+					</div>
+					<div data-layer="58a1405f-faa7-461b-af56-4d1ffc190394" class="mar7202296370505">
+						Mar 7, 2022
+					</div>
+					<div data-layer="1d5d875b-50cc-4e99-af11-72502dfa4e52" class="feb2220223d5e7686">
+						Feb 22, 2022
+					</div>
+					<div data-layer="5d6e9f10-c910-4283-b736-5aaeb70b21ff" class="group692475a3f272">
+						<div data-layer="bff60be9-2614-4d1f-828e-95464d86d5dc" class="rectangle16636a685a7a" />
+						<div data-layer="a54f16cc-680a-4e20-82d9-2be9a1097fec" class="paySuccess4deec2cb">
+							PAY SUCCESS
+						</div>
+					</div>
+					<div data-layer="5b6fb1f8-5d5d-492c-807f-e0ec4d2de8c2" class="group68411f51171a">
+						<div data-layer="b29e288b-40c8-4bfa-bbca-7186aa4e2c2f" class="rectangle16642c3398a3" />
+						<div data-layer="4a265277-56eb-4c21-82d0-52a9408cd64e" class="failedPaymente172a050">
+							FAILED PAYMENT
+						</div>
+					</div>
+					<div
+						data-layer="3023bdf5-b3cc-4810-84a7-cd71ca102890"
+						class="maxt9305467879808765229453f9"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="9156803b-2642-433d-a9e9-86e5f00fdf9e" class="x230000cefee69c">
+						2300.00
+					</div>
+					<div data-layer="57bc9f19-08f5-47a4-b18f-e795a46043a0" class="x2300007fe7dee3">
+						2300.00
+					</div>
+					<div data-layer="be4ce896-a71b-4b7b-8cb5-45bc723aaf32" class="x23000b0123c73">230.00</div>
+					<div data-layer="2c0fbe76-369c-4a93-91e1-c49057fb495d" class="x2300071584b29">230.00</div>
+					<div data-layer="7dfa138f-bf8a-4fd2-9cc6-4633513acfad" class="x3246009fba6d50">
+						3246.00
+					</div>
+					<div data-layer="4c3f0076-29c7-4524-b05b-7fdddb9b1796" class="feb222022af29c938">
+						Feb 22, 2022
+					</div>
+					<div data-layer="f9b9654a-b56a-45b9-bdcf-4bf9ea1d6693" class="feb2220227a0c3541">
+						Feb 22, 2022
+					</div>
+					<div data-layer="84503c38-0d32-448d-9cd7-2ce76e32a4b0" class="creditCarda7720d49">
+						Credit card
+					</div>
+					<div
+						data-layer="feaba671-ed79-46f8-83a7-24cef1fb25f9"
+						class="maxt93054678798087653700b034"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="0127e9af-10df-4c10-8451-c0c277388369" class="x323456a0b8360">32345</div>
+					<div data-layer="613c0527-151d-4da7-be66-2f98a2d493b0" class="x230000a2ce1ca5">
+						2300.00
+					</div>
+					<div data-layer="dfb43f1b-dd1e-4673-935f-823e4bddbae2" class="x230000d0e4822d">
+						2300.00
+					</div>
+					<div data-layer="1ca62046-b913-4aec-aad7-8f38ece0a977" class="x23000396d4a39">230.00</div>
+					<div data-layer="1653d99d-3b4a-4bee-bacd-e8eb9692feae" class="x23000ccd464c5">230.00</div>
+					<div data-layer="cdbd0b5b-1914-4d6a-8821-8a2d6f649a87" class="x3246001a444756">
+						3246.00
+					</div>
+					<div data-layer="6e3856b3-2260-4b3e-bfd6-7d45cac849f7" class="x324600a39062ca">
+						3246.00
+					</div>
+				</div>
+				<div data-layer="5c91018c-1925-470b-b038-21acb522b62b" class="group6840">
+					<div data-layer="c7202889-1d72-4395-803b-64e8ca030d4d" class="feb222022b919fd5f">
+						Feb 22, 2022
+					</div>
+					<div data-layer="d41ce76d-0648-4860-9988-dc6475ec1cc0" class="creditCard804e62b9">
+						Credit card
+					</div>
+					<div data-layer="6a2c6d59-6c1c-42b8-9f75-4d3e7353f386" class="x3234512819709">32345</div>
+					<div data-layer="eb5ed834-4673-40df-92af-7cf45ea84c65" class="feb132022">
+						Feb 13, 2022
+					</div>
+					<div data-layer="e50d7279-1ff9-4862-95d1-11f997d3b562" class="x32460038dc9bf9">
+						3246.00
+					</div>
+					<div data-layer="30e92191-fe7e-4377-bbcf-0b04e4cc2da2" class="mar72022">Mar 7, 2022</div>
+					<div data-layer="de0e1afc-9ad7-4d92-b617-20c021c8e1c6" class="feb22202216802a8a">
+						Feb 22, 2022
+					</div>
+					<div data-layer="8f5203df-54c9-4401-a1b0-7bfda852c526" class="group6924">
+						<div data-layer="3f6d379b-1613-4c99-b8bf-a06facb16624" class="rectangle1663" />
+						<div data-layer="4c35c88c-51c0-494f-8c38-267b43a77f61" class="paySuccess">
+							PAY SUCCESS
+						</div>
+					</div>
+					<div data-layer="3ccb18bf-944a-4549-b9d1-dc9686a10839" class="group6841">
+						<div data-layer="3abeb12c-ecec-49cc-9cc3-bba11f57327b" class="rectangle1664" />
+						<div data-layer="0c274a11-80e1-4fb7-b0dc-2054b97f2edd" class="failedPayment">
+							FAILED PAYMENT
+						</div>
+					</div>
+					<div
+						data-layer="4b6973de-0c4c-4876-ab33-af0d862df51b"
+						class="maxt9305467879808765930452b9"
+					>
+						MAXT9305467879808765
+					</div>
+					<div data-layer="47310fcc-0dda-4ccc-b962-885f76245d87" class="x230000ec0e577b">
+						2300.00
+					</div>
+					<div data-layer="15ff6733-eebb-4257-b694-5199d5387d49" class="x2300001cc4ccd8">
+						2300.00
+					</div>
+					<div data-layer="8f173311-55e9-42cc-a66a-a19630d740f2" class="x2300027174365">230.00</div>
+					<div data-layer="b252d378-b301-4236-990f-6b9d3a567b5c" class="x23000c718081f">230.00</div>
+					<div data-layer="571edd78-cb53-4c5f-93e3-d91753cae194" class="x324600899cf494">
+						3246.00
+					</div>
+					<div data-layer="547753ee-ed8e-4cf6-94f1-942d714cf994" class="feb2220222ad1be38">
+						Feb 22, 2022
+					</div>
+					<div data-layer="a50a6e0f-6ff8-46b3-b236-cdf2a5c4348c" class="feb222022">
+						Feb 22, 2022
+					</div>
+					<div data-layer="28bd39eb-3861-44e6-8373-17f8586ec973" class="creditCard">
+						Credit card
+					</div>
+					<div data-layer="ad6bf39c-b15a-43e0-850f-f274b1b19fe4" class="maxt9305467879808765">
+						MAXT9305467879808765
+					</div>
+					<div data-layer="4cbe857e-da68-4805-975a-53ac4235d416" class="x32345">32345</div>
+					<div data-layer="60f87425-3b64-4f3b-827f-4c66bd3d0243" class="x2300007dc5bbd5">
+						2300.00
+					</div>
+					<div data-layer="f7dbe03d-c327-4bfc-8bb5-d620e457bb10" class="x230000">2300.00</div>
+					<div data-layer="8dbf1b16-11aa-434f-9a82-33f40a28ad00" class="x23000b8c0a914">230.00</div>
+					<div data-layer="4e82b60d-20e1-4b6a-ad32-abe01fc7ada0" class="x23000">230.00</div>
+					<div data-layer="4bf122f4-444e-413a-9a96-9e0b64284545" class="x3246004c20f747">
+						3246.00
+					</div>
+					<div data-layer="62bb1989-0d4b-4f3e-9104-79b1988dfece" class="x324600">3246.00</div>
+				</div>
+			</div>
+			<div data-layer="6ba2a4dc-d40b-4f1a-ba5d-9054c18e96bd" class="paymentId">Payment ID</div>
+			<div data-layer="18d0aa79-b5d7-4bb6-885a-162cc56de0e3" class="releaseDate">Release date</div>
+			<div data-layer="56c1e94f-4628-4280-b6e6-4e0a2430a9e7" class="updateAmount">
+				Update amount
+			</div>
+			<div data-layer="bd6434b7-ed0d-4fce-a96a-983fc574de93" class="refunds">Refunds</div>
+			<div data-layer="31f8053d-cc26-4453-a3cb-234d05a26c4e" class="patStatus">PAT status</div>
+			<svg
+				data-layer="05018af1-b24b-4158-82e8-b58f471ac46d"
+				preserveAspectRatio="none"
+				viewBox="327.2500305175781 611.1019287109375 1657.5 1.5"
+				class="path2522"
+				><path
+					d="M 328.0000305175781 611.8519287109375 L 1983.999877929688 611.8519287109375"
+				/></svg
+			>
+		</div>
+		<div data-layer="41fd759e-4c5f-4dd6-8a30-25acae0f0c30" class="payment">Payment</div>
+		<div data-layer="e87e9869-3c7a-46a9-ad0c-605cda183954" class="group6817">
+			<div data-layer="1fcba4a8-3196-4af3-b878-06d579b6fb5b" class="rectangle1647073b92c3" />
+			<svg
+				data-layer="2a218a47-fbb9-44b6-a42e-c3500bd0d7bd"
+				preserveAspectRatio="none"
+				viewBox="6116.15234375 162.14999389648438 9.0244140625 4.8495941162109375"
+				class="path5733e5067f3"
+				><path
+					d="M 6116.34375 162.3421020507812 C 6116.5986328125 162.0859680175781 6117.0146484375 162.0859680175781 6117.26953125 162.3421020507812 L 6120.5791015625 165.6543884277344 C 6120.6259765625 165.6991271972656 6120.703125 165.6991271972656 6120.7490234375 165.6543884277344 L 6124.05859375 162.3421020507812 C 6124.3134765625 162.0859680175781 6124.73046875 162.0859680175781 6124.9853515625 162.3421020507812 C 6125.240234375 162.5982666015625 6125.240234375 163.0133666992188 6124.9853515625 163.26953125 L 6121.6748046875 166.581787109375 C 6121.119140625 167.1388549804688 6120.208984375 167.1388549804688 6119.6533203125 166.581787109375 L 6116.34375 163.26953125 C 6116.0888671875 163.0133666992188 6116.0888671875 162.5982666015625 6116.34375 162.3421020507812 Z"
+				/></svg
+			>
+			<div data-layer="4ca94aa1-7ae8-49fc-96e4-044603dc6f05" class="groupBy">Group By</div>
+			<div data-layer="de99fdd4-4ed8-4172-bb54-340109b00210" class="bookmark0fef2833">
+				<svg
+					data-layer="5773e717-a251-4dcf-be59-87b703ce5eba"
+					preserveAspectRatio="none"
+					viewBox="-0.75 -0.75 6.95654296875 7.15289306640625"
+					class="bookmark2"
+					><path
+						d="M 5.456475734710693 3.354467153549194 L 1.023841977119446 5.568536758422852 C 0.6890997290611267 5.750245571136475 0.2715426087379456 5.62893009185791 0.08431638777256012 5.295568943023682 C 0.02963684126734734 5.190761566162109 0.0007220901316031814 5.074270248413086 0 4.955876350402832 L 0 0 C 0 0.4913414716720581 0.2770395874977112 0.7946386933326721 1.005774140357971 1.134331703186035 L 5.456475734710693 3.354467153549194 Z"
+					/></svg
+				>
+				<svg
+					data-layer="b1182a67-23be-4180-9e46-fee8cb4ea23f"
+					preserveAspectRatio="none"
+					viewBox="-0.75 -0.75 12.38818359375 15.357925415039062"
+					class="bookmark"
+					><path
+						d="M 10.19413471221924 13.8579216003418 C 10.07350635528564 13.8579216003418 9.954375267028809 13.82528018951416 9.849631309509277 13.7635383605957 L 5.438059329986572 11.51669597625732 L 1.002601981163025 9.264244079589844 C 0.2717362344264984 8.917263984680176 0 8.605262756347656 0 8.113073348999023 L 0 2.628485918045044 C 0 1.738549470901489 0.3286408483982086 1.057976961135864 0.9767969250679016 0.6056777238845825 C 1.544618129730225 0.2094405442476273 2.358751535415649 5.960464477539062e-08 3.331186532974243 5.960464477539062e-08 L 7.532683372497559 5.960464477539062e-08 C 8.507246971130371 5.960464477539062e-08 9.324028968811035 0.2094405442476273 9.894721031188965 0.6056709289550781 C 10.54540252685547 1.057443380355835 10.87971210479736 1.73801589012146 10.88836765289307 2.628485918045044 L 10.88836765289307 13.14180564880371 C 10.88776302337646 13.25844097137451 10.85874462127686 13.37552547454834 10.80446147918701 13.4804220199585 C 10.71755886077881 13.64934253692627 10.56486511230469 13.77685642242432 10.38553619384766 13.8302640914917 C 10.32318782806396 13.84861946105957 10.25879001617432 13.8579216003418 10.19413471221924 13.8579216003418 Z M 2.87490177154541 4.185622215270996 C 2.580415725708008 4.185622215270996 2.34083366394043 4.431522369384766 2.34083366394043 4.733769416809082 C 2.34083366394043 5.035676002502441 2.580415725708008 5.281291961669922 2.87490177154541 5.281291961669922 L 7.995092391967773 5.281291961669922 C 8.289578437805176 5.281291961669922 8.52916145324707 5.035676002502441 8.52916145324707 4.733769416809082 C 8.52916145324707 4.431522369384766 8.289578437805176 4.185622215270996 7.995092391967773 4.185622215270996 L 2.87490177154541 4.185622215270996 Z"
+					/></svg
+				>
+			</div>
+		</div>
+		<div data-layer="e2011d76-42f7-43dd-bb9b-ea6f335e53f0" class="group6818">
+			<div data-layer="143a7512-198a-4662-a5ab-2fce920e1dc8" class="rectangle1647598c259b" />
+			<svg
+				data-layer="a35a18af-b1f8-4f5a-9f1c-98e870532c11"
+				preserveAspectRatio="none"
+				viewBox="6116.15234375 162.14999389648438 9.0244140625 4.8495941162109375"
+				class="path573394eaf02"
+				><path
+					d="M 6116.34375 162.3421020507812 C 6116.5986328125 162.0859680175781 6117.0146484375 162.0859680175781 6117.26953125 162.3421020507812 L 6120.5791015625 165.6543884277344 C 6120.6259765625 165.6991271972656 6120.703125 165.6991271972656 6120.7490234375 165.6543884277344 L 6124.05859375 162.3421020507812 C 6124.3134765625 162.0859680175781 6124.73046875 162.0859680175781 6124.9853515625 162.3421020507812 C 6125.240234375 162.5982666015625 6125.240234375 163.0133666992188 6124.9853515625 163.26953125 L 6121.6748046875 166.581787109375 C 6121.119140625 167.1388549804688 6120.208984375 167.1388549804688 6119.6533203125 166.581787109375 L 6116.34375 163.26953125 C 6116.0888671875 163.0133666992188 6116.0888671875 162.5982666015625 6116.34375 162.3421020507812 Z"
+				/></svg
+			>
+			<div data-layer="6fcbd874-f8bc-435d-a6fc-202f64414bb7" class="star">
+				<svg
+					data-layer="5539f90b-b886-46d9-a8c9-a0e814f6c76b"
+					preserveAspectRatio="none"
+					viewBox="-0.7499998658895493 -0.7499999105930328 15.73095703125 15.01947021484375"
+					class="fill16d99bb3c"
+					><path
+						d="M 7.810202121734619 0.4366180002689362 L 9.394455909729004 3.620294570922852 C 9.511175155639648 3.850954294204712 9.733938217163086 4.011135101318359 9.990863800048828 4.046730518341064 L 13.54938411712646 4.565002918243408 C 13.75720119476318 4.594192028045654 13.94580268859863 4.703826427459717 14.07319831848145 4.871126174926758 C 14.19917011260986 5.036290168762207 14.25325870513916 5.245592594146729 14.22265625 5.451335430145264 C 14.19774627685547 5.622194766998291 14.11732482910156 5.780239105224609 13.99419975280762 5.901264667510986 L 11.41569519042969 8.400792121887207 C 11.22709369659424 8.575211524963379 11.14168930053711 8.833635330200195 11.1872386932373 9.08636474609375 L 11.82207775115967 12.60036849975586 C 11.88968944549561 13.02466869354248 11.60856628417969 13.42476463317871 11.1872386932373 13.50521087646484 C 11.01358222961426 13.53297519683838 10.83565616607666 13.50378704071045 10.67908096313477 13.42405319213867 L 7.504881381988525 11.77027893066406 C 7.269306659698486 11.65138816833496 6.991030216217041 11.65138816833496 6.755456447601318 11.77027893066406 L 3.581256151199341 13.42405319213867 C 3.191242456436157 13.6312198638916 2.707995176315308 13.49026107788086 2.490925550460815 13.10582733154297 C 2.410503149032593 12.95276641845703 2.38203501701355 12.77834701538086 2.408367872238159 12.6082010269165 L 3.043208122253418 9.093483924865723 C 3.088756799697876 8.841466903686523 3.00264048576355 8.581618309020996 2.814750909805298 8.407198905944824 L 0.2362470477819443 5.909095764160156 C -0.07049742341041565 5.612939834594727 -0.07974958419799805 5.125278949737549 0.215607613325119 4.81844425201416 C 0.2220129817724228 4.812036991119385 0.2291300296783447 4.80491828918457 0.2362470477819443 4.797799110412598 C 0.3586601614952087 4.673214435577393 0.5195052623748779 4.594192028045654 0.6931610703468323 4.573546409606934 L 4.251681327819824 4.054561138153076 C 4.507894992828369 4.018253803253174 4.730658531188965 3.8594970703125 4.848089694976807 3.627413511276245 L 6.375406265258789 0.4366180002689362 C 6.51134204864502 0.1632432788610458 6.793176651000977 -0.006904017645865679 7.099209308624268 0.0002151160588255152 L 7.194578170776367 0.0002151160588255152 C 7.460043430328369 0.03225121647119522 7.691347122192383 0.1967032104730606 7.810202121734619 0.4366180002689362"
+					/></svg
+				>
+				<svg
+					data-layer="6d486f27-9dc5-482b-9286-254455717d1b"
+					preserveAspectRatio="none"
+					viewBox="-0.7499999850988388 -0.7499999403953552 8.61572265625 15.01947021484375"
+					class="fill44290c42b"
+					><path
+						d="M 7.109829902648926 11.68162155151367 C 6.972001552581787 11.68589401245117 6.837725639343262 11.72292518615723 6.716948986053467 11.78915405273438 L 3.558269500732422 13.43917179107666 C 3.171782493591309 13.62361526489258 2.709276914596558 13.4804744720459 2.49258828163147 13.11087703704834 C 2.412307024002075 12.95990371704102 2.383178472518921 12.78685569763184 2.410175800323486 12.61736679077148 L 3.041058778762817 9.110100746154785 C 3.083686351776123 8.855156898498535 2.99843168258667 8.595939636230469 2.813003301620483 8.416481018066406 L 0.2333441972732544 5.919023513793945 C -0.07286155968904495 5.619214057922363 -0.07854519039392471 5.127128601074219 0.2212664633989334 4.820198535919189 C 0.2255291789770126 4.815925598144531 0.2290814518928528 4.812365055084229 0.2333441972732544 4.808804512023926 C 0.3555423021316528 4.687741279602051 0.5132631063461304 4.607982158660889 0.6830616593360901 4.583057403564453 L 4.24456787109375 4.058926105499268 C 4.502463340759277 4.026167869567871 4.726256370544434 3.865225315093994 4.839929103851318 3.631644725799561 L 6.388008594512939 0.400687575340271 C 6.535072326660156 0.1400460600852966 6.817122459411621 -0.01519942097365856 7.115513324737549 0.001179689774289727 C 7.109829902648926 0.212683841586113 7.109829902648926 11.53776931762695 7.109829902648926 11.68162155151367"
+					/></svg
+				>
+			</div>
+			<div data-layer="41a930bb-4165-46c5-ba3c-828e6133a279" class="favourites">Favourites</div>
+		</div>
+		<div data-layer="6e055b59-18af-4c9d-989c-114cf13d3fa3" class="group6819">
+			<div data-layer="3a9706cd-f06c-4528-a555-7d70cfb9eedd" class="rectangle1645" />
+			<div data-layer="8a5ab7d4-899c-4031-b635-ee7c92927d55" class="group6805">
+				<div data-layer="4f230e18-8376-4047-8eca-15a301c59671" class="search">Search…</div>
+				<div data-layer="0a46de88-c966-42ec-9b13-7820d4c47832" class="group6804">
+					<svg
+						data-layer="e3faf607-2092-4166-9b59-075084cc0700"
+						preserveAspectRatio="none"
+						viewBox="808 159 11.564453125 11.564437866210938"
+						class="path87dc0ea16b"
+						><path
+							d="M 813.7822265625 168.9627075195312 C 816.0906372070312 168.9627075195312 817.9627075195312 167.0905914306641 817.9627075195312 164.7822113037109 C 817.9627075195312 162.4729156494141 816.0906372070312 160.6017150878906 813.7822265625 160.6017150878906 C 811.472900390625 160.6017150878906 809.6017456054688 162.4729156494141 809.6017456054688 164.7822113037109 C 809.6017456054688 167.0905914306641 811.472900390625 168.9627075195312 813.7822265625 168.9627075195312 Z M 813.7822265625 170.5644378662109 C 816.9752807617188 170.5644378662109 819.564453125 167.9753112792969 819.564453125 164.7822113037109 C 819.564453125 161.5891265869141 816.9752807617188 159 813.7822265625 159 C 810.5891723632812 159 808 161.5891265869141 808 164.7822113037109 C 808 167.9753112792969 810.5891723632812 170.5644378662109 813.7822265625 170.5644378662109 Z"
+						/></svg
+					>
+					<svg
+						data-layer="ba2b82eb-41a2-470e-9298-175517efef14"
+						preserveAspectRatio="none"
+						viewBox="817.6700439453125 168.67001342773438 3.9384765625 3.9383392333984375"
+						class="path8834a108ec"
+						><path
+							d="M 817.9046630859375 168.9046173095703 C 817.591796875 169.2174377441406 817.591796875 169.7243041992188 817.9046630859375 170.037109375 L 820.2412109375 172.3737487792969 C 820.5540771484375 172.6865539550781 821.0609130859375 172.6865539550781 821.373779296875 172.3737487792969 C 821.6865234375 172.0609436035156 821.6865234375 171.5540466308594 821.373779296875 171.2412261962891 L 819.037109375 168.9046173095703 C 818.7252807617188 168.5918121337891 818.2174682617188 168.5918121337891 817.9046630859375 168.9046173095703 Z"
+						/></svg
+					>
+				</div>
+			</div>
+		</div>
+		<div data-layer="db0561ef-73ed-486d-98fc-057b32392a6d" class="filter">
+			<div data-layer="9a778f18-784f-40e9-84ea-2ba603328eea" class="rectangle1646" />
+			<div data-layer="dd3c093f-c81a-4c37-98e7-43a746876d9a" class="group6806" />
+		</div>
+		<div data-layer="2140489a-9e25-4089-857d-b4f27424eed2" class="group6839">
+			<svg
+				data-layer="378cb3f2-2400-4ea5-8c5b-3d078bc672ca"
+				preserveAspectRatio="none"
+				viewBox="-0.75 -0.75 103.5 36.5"
+				class="path2508e75cbbb2"
+				><path
+					d="M 17.5 0 L 84.5 0 C 94.16498565673828 0 102 7.835016250610352 102 17.5 C 102 27.16498374938965 94.16498565673828 35 84.5 35 L 17.5 35 C 7.835016250610352 35 0 27.16498374938965 0 17.5 C 0 7.835016250610352 7.835016250610352 0 17.5 0 Z"
+				/></svg
+			>
+			<div data-layer="e9f9eb0e-df3f-4342-af8a-faf5c45dac6c" class="import">Import</div>
+			<div data-layer="5b9b28f7-8a2b-4e68-bf40-2c9a713c8ba4" class="group6799">
+				<svg
+					data-layer="21959e8d-b011-415e-9481-aa50f968b241"
+					preserveAspectRatio="none"
+					viewBox="0 0 102 35"
+					class="path2508"
+					><path
+						d="M 17.5 0 L 84.5 0 C 94.16498565673828 0 102 7.835016250610352 102 17.5 C 102 27.16498374938965 94.16498565673828 35 84.5 35 L 17.5 35 C 7.835016250610352 35 0 27.16498374938965 0 17.5 C 0 7.835016250610352 7.835016250610352 0 17.5 0 Z"
+					/></svg
+				>
+				<div data-layer="5eb4c3a7-0f83-4baf-81ee-bb4ca6cb4920" class="group6793">
+					<div data-layer="04385acb-b672-4bb1-965a-20616f8d241f" class="group6792" />
+					<div data-layer="af16a588-4435-46b1-821e-184992336e5d" class="create">Create</div>
+				</div>
+			</div>
+		</div>
+		<div data-layer="1e9293ab-e05a-46b4-bbaa-3a97d170bc69" class="group6845">
+			<div data-layer="29ef15fa-5406-4cc8-b136-7b9e4aa2d15a" class="group6843">
+				<div data-layer="915020fa-e85e-4c85-a8f2-fb842e755195" class="rectangle1665" />
+				<div data-layer="d86e27df-25f0-43f1-b30e-de1215690614" class="group6842">
+					<svg
+						data-layer="4ce25d58-8cb3-4e75-83ac-95c9c7c676ef"
+						preserveAspectRatio="none"
+						viewBox="-0.0001220703125 0.000003814697265625 10.69189453125 5.74603271484375"
+						class="path2523"
+						><path
+							d="M 0.2265625 0.2276153564453125 C 0.5283203125 -0.07586669921875 1.021484375 -0.07586669921875 1.3232421875 0.2276153564453125 L 5.2451171875 4.152175903320312 C 5.30029296875 4.205184936523438 5.39208984375 4.205184936523438 5.4462890625 4.152175903320312 L 9.36767578125 0.2276153564453125 C 9.66943359375 -0.07586669921875 10.16357421875 -0.07586669921875 10.46533203125 0.2276153564453125 C 10.767578125 0.5311279296875 10.767578125 1.02294921875 10.46533203125 1.32647705078125 L 6.54296875 5.251007080078125 C 5.88427734375 5.911026000976562 4.80615234375 5.911026000976562 4.14794921875 5.251007080078125 L 0.2265625 1.32647705078125 C -0.07568359375 1.02294921875 -0.07568359375 0.5311279296875 0.2265625 0.2276153564453125 Z"
+						/></svg
+					>
+					<div data-layer="7cfc2fb8-a4de-4783-ac29-bac2a9331ec0" class="x1">1</div>
+					<div data-layer="22d5b439-23e8-4ea3-bead-2a24685dd3e8" class="x2bfb61c1c">2</div>
+					<div data-layer="e2801192-7139-4e31-9960-7437c7f7eda3" class="x3">3</div>
+					<div data-layer="2a68732d-e940-4809-a15b-e469c5ee8082" class="x4">4</div>
+					<div data-layer="d4a06e56-bb7f-4811-9248-946087e4817f" class="x5">5</div>
+					<div data-layer="42711867-c1ca-41d6-816c-d665d93ddd40" class="xb3364370">...</div>
+					<div data-layer="dc8033bd-4d5c-41f4-b687-cf7712dccc89" class="x22">22</div>
+					<svg
+						data-layer="5f54f3f8-98a4-42ba-9b9b-a946194e8faa"
+						preserveAspectRatio="none"
+						viewBox="0 0 10.69091796875 5.74554443359375"
+						class="path2524"
+						><path
+							d="M 0.2264781296253204 5.517945289611816 C 0.5284489393234253 5.821398735046387 1.021320939064026 5.821398735046387 1.323291778564453 5.517945289611816 L 5.244284152984619 1.593716859817505 C 5.299818992614746 1.540712833404541 5.391220092773438 1.540712833404541 5.445598125457764 1.593716859817505 L 9.366591453552246 5.517945289611816 C 9.668561935424805 5.821398735046387 10.16259098052979 5.821398735046387 10.46456241607666 5.517945289611816 C 10.76653289794922 5.214456081390381 10.76653289794922 4.722669124603271 10.46456241607666 4.419179439544678 L 6.542411804199219 0.4949870109558105 C 5.884092330932617 -0.1649956703186035 4.805790424346924 -0.1649956703186035 4.147470474243164 0.4949870109558105 L 0.2264781296253204 4.419179439544678 C -0.07549269497394562 4.722669124603271 -0.07549269497394562 5.214456081390381 0.2264781296253204 5.517945289611816 Z"
+						/></svg
+					>
+				</div>
+			</div>
+			<div data-layer="fc7ffa9f-bf25-45a1-93e4-12da33e43ec7" class="group6844">
+				<div data-layer="5f94ef54-dce9-40b9-bd7b-b46b896a8499" class="rectangle1647" />
+				<svg
+					data-layer="07b0a9d3-aa50-41da-a7d6-3fa5adbcdafb"
+					preserveAspectRatio="none"
+					viewBox="6116.15234375 162.14999389648438 9.0244140625 4.84954833984375"
+					class="path573"
+					><path
+						d="M 6116.34375 162.3421020507812 C 6116.5986328125 162.0859680175781 6117.0146484375 162.0859680175781 6117.26953125 162.3421020507812 L 6120.5791015625 165.6543884277344 C 6120.6259765625 165.6991271972656 6120.703125 165.6991271972656 6120.7490234375 165.6543884277344 L 6124.05859375 162.3421020507812 C 6124.3134765625 162.0859680175781 6124.73046875 162.0859680175781 6124.9853515625 162.3421020507812 C 6125.240234375 162.5982666015625 6125.240234375 163.0133666992188 6124.9853515625 163.26953125 L 6121.6748046875 166.581787109375 C 6121.119140625 167.1388549804688 6120.208984375 167.1388549804688 6119.6533203125 166.581787109375 L 6116.34375 163.26953125 C 6116.0888671875 163.0133666992188 6116.0888671875 162.5982666015625 6116.34375 162.3421020507812 Z"
+					/></svg
+				>
+				<div data-layer="60e610d5-7f55-44ca-a8db-74fcd09fa73c" class="x10">10</div>
+			</div>
+			<div data-layer="304ff983-f496-40ff-ad6e-f4cfdf6dd513" class="results15Of324">
+				Results: 1 - 5 of 324
+			</div>
+		</div>
+	</div>
+	<div data-layer="13145af7-16d2-43f4-b0da-f98c6089cbb0" class="navBar7">
+		<div data-layer="3610a1ee-591f-43a2-afeb-41a4d10bc603" class="rectangle1623" />
+		<div data-layer="026aa93e-75f2-4777-bac5-631d3104a7aa" class="group6909">
+			<div data-layer="87c70e19-2bab-486e-b781-f0777a82888f" class="rectangle1054" />
+			<div data-layer="df35ff6f-cd73-48f4-9d8d-a2c5dc4ded05" class="group6765">
+				<div data-layer="2d724d92-7ba2-4513-8762-de906ed0bc4d" class="group6905">
+					<div data-layer="4f527460-a970-4d9f-923c-7a12439f182c" class="group2199" />
+					<div data-layer="80a7ea3f-e9cf-455d-affd-2ae199c708c4" class="home">Home</div>
+				</div>
+				<div data-layer="555d1f10-79ab-434e-9be0-f65f3eb700d4" class="group6888">
+					<div data-layer="5002958a-d659-45b9-84fb-4ee2b89e594a" class="partners">Partners</div>
+					<div data-layer="c0acd5df-e3d1-4de2-ac82-9d1ce11c833d" class="iconlybulk2User" />
+				</div>
+				<div data-layer="bede356d-c383-43e0-8d92-af91facaf11a" class="group6889">
+					<div data-layer="7a2d25dc-df2a-4ba4-ad4d-a3b59a5a8204" class="transactions">
+						Transactions
+					</div>
+					<div data-layer="cb395cc6-2edf-46ff-8598-b54b46e9b54b" class="group6773" />
+				</div>
+				<div data-layer="78a596d2-a2a5-4e6d-bb9a-d7030d78449a" class="group6890">
+					<div data-layer="0169b59e-6218-43f6-b885-3af8ad529f89" class="statements">Statements</div>
+					<div data-layer="f709975f-79f3-48d8-99bf-e0acbbe1b5e7" class="document" />
+				</div>
+				<div data-layer="4f01b330-790b-411a-872e-7b0f9f3b4113" class="group6892">
+					<div data-layer="e2a0392e-b5e1-4a38-8ed5-667bdd6a648f" class="group6774" />
+					<div data-layer="605accf8-fb21-482d-82e4-00a54c3fd435" class="logs">Logs</div>
+				</div>
+				<div data-layer="3ea1ecd5-a454-4ea4-b1db-6b33b8e105c6" class="group6893">
+					<div data-layer="46a19224-6d25-4a59-90b3-6f523a4721b0" class="setting" />
+					<div data-layer="fbf1a794-6383-44ba-a3b4-2db5178924f1" class="settings">Settings</div>
+				</div>
+				<div data-layer="bc022a62-619e-4805-9bc5-e5b74894264d" class="group6891">
+					<div data-layer="16f88dc8-963f-4780-8fe8-fd50283c7242" class="widthdraw">Widthdraw</div>
+					<div data-layer="bd153f52-9e82-4da3-bb0e-a4e51df1ac4f" class="wallet" />
+					<svg
+						data-layer="7daba7ac-437e-4b8a-9203-75e55f931ac4"
+						preserveAspectRatio="none"
+						viewBox="6116.15234375 162.14999389648438 9.5517578125 5.133544921875"
+						class="path2520"
+						><path
+							d="M 6116.3544921875 162.3533630371094 C 6116.6240234375 162.0822143554688 6117.06494140625 162.0822143554688 6117.3349609375 162.3533630371094 L 6120.83837890625 165.8595733642578 C 6120.8876953125 165.9069366455078 6120.96875 165.9069366455078 6121.01806640625 165.8595733642578 L 6124.52197265625 162.3533630371094 C 6124.79150390625 162.0822143554688 6125.232421875 162.0822143554688 6125.501953125 162.3533630371094 C 6125.771484375 162.6245269775391 6125.771484375 163.0639190673828 6125.501953125 163.3350677490234 L 6121.998046875 166.8412780761719 C 6121.41015625 167.4309539794922 6120.4462890625 167.4309539794922 6119.8583984375 166.8412780761719 L 6116.3544921875 163.3350677490234 C 6116.0849609375 163.0639190673828 6116.0849609375 162.6245269775391 6116.3544921875 162.3533630371094 Z"
+						/></svg
+					>
+				</div>
+			</div>
+			<div data-layer="1f042486-62bf-4b57-a802-6f5c560af039" class="group6925">
+				<svg
+					data-layer="a2d4839c-6637-4d9f-902e-bff72c4bfdd2"
+					preserveAspectRatio="none"
+					viewBox="-0.75 -0.75 31.2275390625 31.37647247314453"
+					class="ellipse746"
+					><path
+						d="M 14.86370182037354 0 C 23.07269668579102 0 29.72740364074707 6.688076019287109 29.72740364074707 14.93823528289795 C 29.72740364074707 23.18839454650879 23.07269668579102 29.8764705657959 14.86370182037354 29.8764705657959 C 6.654706954956055 29.8764705657959 0 23.18839454650879 0 14.93823528289795 C 0 6.688076019287109 6.654706954956055 0 14.86370182037354 0 Z"
+					/></svg
+				>
+				<div data-layer="84622118-6d38-4403-9019-a00d7637edcc" class="appsmith">AppSmith</div>
+			</div>
+			<div data-layer="c3064305-71da-458b-9f53-09fc6907ff2c" class="group6908">
+				<div data-layer="8dddaee2-8b40-4c6a-8676-2458dbedea6a" class="group6775">
+					<div data-layer="9046c229-49d7-4bbb-b1e5-5d1ffa9b08ab" class="group6802">
+						<svg
+							data-layer="56835745-b1f7-49fb-88a4-fd98caaf8f04"
+							preserveAspectRatio="none"
+							viewBox="0 0 53.078125 53.078094482421875"
+							class="ellipse18"
+							><path
+								d="M 26.53904724121094 0 C 41.1961555480957 0 53.07809448242188 11.88193798065186 53.07809448242188 26.53904724121094 C 53.07809448242188 41.1961555480957 41.1961555480957 53.07809448242188 26.53904724121094 53.07809448242188 C 11.88193798065186 53.07809448242188 0 41.1961555480957 0 26.53904724121094 C 0 11.88193798065186 11.88193798065186 0 26.53904724121094 0 Z"
+							/></svg
+						>
+						<div data-layer="4cdb55d5-b5fb-4fb7-bc85-89bae4ff5f79" class="maskGroup2" />
+					</div>
+				</div>
+				<div data-layer="4e8cfed4-bdea-4046-b50e-3b2808806a48" class="group6906">
+					<svg
+						data-layer="8e254fc0-3ebc-43d9-99c2-0e34b160ba95"
+						preserveAspectRatio="none"
+						viewBox="0 0 48 48"
+						class="path9341472f598"
+						><path
+							d="M 24 0 C 37.25483322143555 0 48 10.74516773223877 48 24 C 48 37.25483322143555 37.25483322143555 48 24 48 C 10.74516773223877 48 0 37.25483322143555 0 24 C 0 10.74516773223877 10.74516773223877 0 24 0 Z"
+						/></svg
+					>
+					<div data-layer="84706ca0-f922-4779-bb6c-d153acb80f75" class="group6772">
+						<div data-layer="110ace16-05d4-46cc-81e9-83b99deee24e" class="iconlybulknotification" />
+						<div data-layer="97dd4103-d7db-4bb4-b324-f0b040ba6d00" class="group2202">
+							<svg
+								data-layer="6e884734-1b9e-4dbf-9f01-e2d05ea9f63f"
+								preserveAspectRatio="none"
+								viewBox="0 0 9.02392578125 9.024093627929688"
+								class="ellipse1"
+								><path
+									d="M 4.512049674987793 0 C 7.003985404968262 0 9.024099349975586 2.020112037658691 9.024099349975586 4.512046337127686 C 9.024099349975586 7.00398063659668 7.003985404968262 9.024092674255371 4.512049674987793 9.024092674255371 C 2.020113706588745 9.024092674255371 0 7.00398063659668 0 4.512046337127686 C 0 2.020112037658691 2.020113706588745 0 4.512049674987793 0 Z"
+								/></svg
+							>
+							<div data-layer="7fc90d03-3285-442d-97bf-87d87c4d6d86" class="x2">2</div>
+						</div>
+					</div>
+				</div>
+				<div data-layer="d88c338e-8ab9-4a03-a94f-8e644904bd13" class="group6791">
+					<svg
+						data-layer="52ddb4e4-726a-439d-b722-a05f3d187eca"
+						preserveAspectRatio="none"
+						viewBox="0 0 48 48"
+						class="path938"
+						><path
+							d="M 24 0 C 37.25483322143555 0 48 10.74516868591309 48 24 C 48 37.25483322143555 37.25483322143555 48 24 48 C 10.74516868591309 48 0 37.25483322143555 0 24 C 0 10.74516868591309 10.74516868591309 0 24 0 Z"
+						/></svg
+					>
+					<div data-layer="34371319-7da6-4a9e-bfde-abb286e33b62" class="group6790" />
+				</div>
+				<div data-layer="d188e587-d0cc-4165-8be8-1ae155ae68ee" class="group6910">
+					<svg
+						data-layer="d694acd9-91fc-41a2-8a19-8cfb8d6e2a44"
+						preserveAspectRatio="none"
+						viewBox="0 0 48 48"
+						class="path934"
+						><path
+							d="M 24 0 C 37.25483322143555 0 48 10.74516773223877 48 24 C 48 37.25483322143555 37.25483322143555 48 24 48 C 10.74516773223877 48 0 37.25483322143555 0 24 C 0 10.74516773223877 10.74516773223877 0 24 0 Z"
+						/></svg
+					>
+				</div>
+				<div data-layer="00be5486-5ba8-4cd9-9462-cb9c4ff9344b" class="group6777" />
+			</div>
+		</div>
+	</div>
+</div>

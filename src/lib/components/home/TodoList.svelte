@@ -1,4 +1,6 @@
-<script></script>
+<script>
+    import { dashboard_com2 } from "$lib/store";
+</script>
 <section class="py-8">
     <div class="container px-4 mx-auto">
         <div class="pt-6 bg-white shadow rounded">
@@ -63,80 +65,34 @@
             </div>
             <div class="overflow-x-auto">
                 <table class="table-auto w-full">
-                    <thead />
                     <tbody>
-                        <tr class="text-xs bg-gray-50">
-                            <td class="flex items-center py-5 px-6 font-medium">
-                                <input class="mr-3" type="checkbox" name="" id="" />
-                                <p>M063592DR2</p>
-                            </td>
-                            <td class="font-medium">08.04.2021</td>
-                            <td class="font-medium">Code 5928MD01</td>
-                            <td>
-                                <span class="inline-block py-1 px-2 text-white bg-green-500 rounded-full"
-                                    >Completed</span
-                                >
-                            </td>
-                            <td>$2500.00</td>
-                        </tr>
-                        <tr class="text-xs">
-                            <td class="flex items-center py-5 px-6 font-medium">
-                                <input class="mr-3" type="checkbox" name="" id="" />
-                                <p>M063592DR2</p>
-                            </td>
-                            <td class="font-medium">08.04.2021</td>
-                            <td class="font-medium">Code 5928MD01</td>
-                            <td>
-                                <span class="inline-block py-1 px-2 text-white bg-green-500 rounded-full"
-                                    >Completed</span
-                                >
-                            </td>
-                            <td>$2500.00</td>
-                        </tr>
-                        <tr class="text-xs bg-gray-50">
-                            <td class="flex items-center py-5 px-6 font-medium">
-                                <input class="mr-3" type="checkbox" name="" id="" />
-                                <p>M063592DR2</p>
-                            </td>
-                            <td class="font-medium">08.04.2021</td>
-                            <td class="font-medium">Code 5928MD01</td>
-                            <td>
-                                <span class="inline-block py-1 px-2 text-white bg-green-500 rounded-full"
-                                    >Completed</span
-                                >
-                            </td>
-                            <td>$2500.00</td>
-                        </tr>
-                        <tr class="text-xs">
-                            <td class="flex items-center py-5 px-6 font-medium">
-                                <input class="mr-3" type="checkbox" name="" id="" />
-                                <p>M063592DR2</p>
-                            </td>
-                            <td class="font-medium">08.04.2021</td>
-                            <td class="font-medium">Code 5928MD01</td>
-                            <td>
-                                <span class="inline-block py-1 px-2 text-white bg-green-500 rounded-full"
-                                    >Completed</span
-                                >
-                            </td>
-                            <td>$2500.00</td>
-                        </tr>
-                        <tr class="text-xs bg-gray-50">
-                            <td class="flex items-center py-5 px-6 font-medium">
-                                <input class="mr-3" type="checkbox" name="" id="" />
-                                <p>M063592DR2</p>
-                            </td>
-                            <td class="font-medium">08.04.2021</td>
-                            <td class="font-medium">Code 5928MD01</td>
-                            <td>
-                                <span class="inline-block py-1 px-2 text-white bg-green-500 rounded-full"
-                                    >Completed</span
-                                >
-                            </td>
-                            <td>$2500.00</td>
-                        </tr>
+                      <tr class="border-b border-blue-50">
+                        <td class="flex items-center py-4 px-6 font-medium">
+                          <div class="flex px-4 py-3">
+                            <div>
+                              <p class="text-sm font-medium">New project X
+                            </p>
+                              <p class="text-xs text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit </p>
+                            </div>
+                          </div>
+                        </td>
+                        <td class="font-medium">
+                          <p class="text-sm text-gray-500">122 Comments
+                        </p>
+                        </td>
+                        <td class="pr-6">
+                          <p class="mb-1 text-xs text-indigo-500 font-medium">65%</p>
+                          <div class="flex">
+                            <div class="relative h-1 w-48 bg-indigo-50 rounded-full">
+                              <div class="absolute top-0 left-0 h-full w-2/6 bg-indigo-500 rounded-full"></div>
+                            </div>
+  
+                          </div>
+                        </td>
+                      </tr>
+                      
                     </tbody>
-                </table>
+                  </table>
             </div>
         </div>
     </div>
